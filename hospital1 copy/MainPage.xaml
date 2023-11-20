@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hospital1.MainPage">
+
+    <ScrollView>
+        <Grid>
+            <BoxView
+                Color="#e6e6e6"
+                HeightRequest="500"
+                WidthRequest="500"
+                HorizontalOptions="Center"
+                CornerRadius="16"/>
+
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Image
+                Source="hospitallogo.png"
+                SemanticProperties.Description="Logo"
+                HeightRequest="200"
+                HorizontalOptions="Center" />
+            <Entry
+                x:Name="EntryUsername"
+                Placeholder="Username"
+                HorizontalOptions="CenterAndExpand"
+                WidthRequest="400"
+                BackgroundColor="White"/>
+            <Entry
+                x:Name="EntryPassword"
+                Placeholder="Password"
+                HorizontalOptions="CenterAndExpand"
+                WidthRequest="400"
+                IsPassword="True"
+                BackgroundColor="White"
+                Completed="OnEntryPasswordCompleted"/>
+            <Button
+                x:Name="LoginButton"
+                Text="Login"
+                SemanticProperties.Hint="Login"
+                Clicked="OnLoginButtonClicked"
+                HorizontalOptions="Center" />
+
+        </VerticalStackLayout>
+            </Grid>
+    </ScrollView>
+
+</ContentPage>

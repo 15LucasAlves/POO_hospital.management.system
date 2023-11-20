@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hospital1.NewPage2"
+             Title="NewPage2">
+
+       <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Gray400">#919191</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid>
+        <BoxView Color="#dce0e3" VerticalOptions="FillAndExpand" WidthRequest="300" HorizontalOptions="Start"/>
+
+        <Image
+                Source="hospitallogo.png"
+                SemanticProperties.Description="Logo"
+                HorizontalOptions="Start"
+                WidthRequest="200"
+                Margin="50,0,0,600"/>
+
+        <StackLayout VerticalOptions="Center">
+            <Button
+            x:Name="Patients"
+            Text="Patients"
+            TextColor="#dce0e3"
+            SemanticProperties.Hint="Patients_screen"
+            HorizontalOptions="Start"
+            WidthRequest="200"
+            Padding="20"
+            Margin="50,10,0,60"
+            BackgroundColor="#33a1b1"
+            />
+
+            <BoxView Color="#dce0e3" VerticalOptions="FillAndExpand" WidthRequest="300" HorizontalOptions="Start"/>
+
+            <Grid
+                HorizontalOptions="Start"
+                Margin="50,-60,0,20"
+                >
+                <Frame
+                    x:Name="searchFrame"
+                    IsVisible="False"
+                    CornerRadius="10"
+                    BackgroundColor="#dce0e3"
+                    Padding="0"
+                    Margin="0,0,0,0"
+                    WidthRequest="200"
+                    HorizontalOptions="Start">
+                    <Grid>
+                        <SearchBar
+                            x:Name="searchBar"
+                            Placeholder="Healthcare Number"
+
+                            WidthRequest="200"
+                            Margin="0,0,0,0"
+                            BackgroundColor="#dce0e3"
+                            />
+                    </Grid>
+                </Frame>
+            </Grid>
+
+            <Button
+            x:Name="MedicalStaff"
+            Text="Medical Staff"
+            TextColor="#dce0e3"
+            SemanticProperties.Hint="Staff_screen"
+    
+            HorizontalOptions="Start"
+            WidthRequest="200"
+            Padding="20"
+            Margin="50,10,0,10"
+            BackgroundColor="#33a1b1"/>
+
+            
+        </StackLayout>
+    </Grid>
+
+
+
+</ContentPage>

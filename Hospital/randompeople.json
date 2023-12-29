@@ -1,0 +1,5821 @@
+[
+  {
+    "Name": "Cheyenne Hughes",
+    "Date of Birth": "1991-06-21",
+    "Healthcare number": 863142,
+    "Phone Number": 966797445,
+    "Image": "random.png",
+    "Identity number": 4157481077,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Aripiprazole",
+        "price": 14.99
+      },
+      {
+        "name": "Pantoprazole",
+        "price": 10.99
+      },
+      {
+        "name": "Candesartan",
+        "price": 11.49
+      },
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      },
+      {
+        "name": "Acyclovir",
+        "price": 8.49
+      }
+    ],
+    "Exams": [
+      "Skin Biopsy",
+      "Lumbar Puncture",
+      "Glucose Tolerance Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Eddie Smith",
+    "Date of Birth": "1912-06-26",
+    "Healthcare number": 327704,
+    "Phone Number": 963721512,
+    "Image": "random.png",
+    "Identity number": 1354397660,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Risperidone",
+        "price": 11.99
+      },
+      {
+        "name": "Ibuprofen",
+        "price": 7.99
+      },
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jasmine Griffin",
+    "Date of Birth": "1933-02-27",
+    "Healthcare number": 443764,
+    "Phone Number": 969026389,
+    "Image": "random.png",
+    "Identity number": 6662590028,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Ciprofloxacin",
+        "price": 12.99
+      }
+    ],
+    "Exams": [
+      "Patch Test",
+      "Lumbar Puncture",
+      "Echocardiogram",
+      "Ultrasound"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Hunter Andersen",
+    "Date of Birth": "1929-04-02",
+    "Healthcare number": 639931,
+    "Phone Number": 929969966,
+    "Image": "random.png",
+    "Identity number": 1055731566,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      },
+      {
+        "name": "Dexamethasone",
+        "price": 9.49
+      },
+      {
+        "name": "Paracetamol",
+        "price": 4.99
+      }
+    ],
+    "Exams": [
+      "Holter Monitor",
+      "Stress Test",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Bone Density Test",
+      "Ultrasound",
+      "Echocardiogram",
+      "Biopsy",
+      "Thyroid Function Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Susan Collins",
+    "Date of Birth": "1999-09-28",
+    "Healthcare number": 222576,
+    "Phone Number": 96123334,
+    "Image": "random.png",
+    "Identity number": 4071639096,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Warfarin",
+        "price": 6.99
+      },
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      },
+      {
+        "name": "Azithromycin",
+        "price": 14.99
+      }
+    ],
+    "Exams": [
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "CT Scan",
+      "Stress Test",
+      "DEXA Scan",
+      "Glucose Tolerance Test",
+      "Thyroid Function Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "David Sanders",
+    "Date of Birth": "1990-09-21",
+    "Healthcare number": 393970,
+    "Phone Number": 927266371,
+    "Image": "random.png",
+    "Identity number": 4973881308,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Memantine",
+        "price": 11.49
+      },
+      {
+        "name": "Cyclobenzaprine",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Blood Work",
+      "Prostate-specific Antigen (PSA) Test",
+      "Allergy Tests",
+      "Pulmonary Function Tests (PFT)",
+      "Holter Monitor",
+      "CT Scan"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Dawn Gibbs",
+    "Date of Birth": "1914-06-14",
+    "Healthcare number": 295924,
+    "Phone Number": 962516304,
+    "Image": "random.png",
+    "Identity number": 7275328609,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Bone Density Test",
+      "Pap Smear",
+      "Holter Monitor",
+      "Skin Biopsy",
+      "Mammogram",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "X-ray"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Destiny Wang",
+    "Date of Birth": "1992-07-16",
+    "Healthcare number": 580969,
+    "Phone Number": 919401839,
+    "Image": "random.png",
+    "Identity number": 7755835806,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Dexamethasone",
+        "price": 9.49
+      },
+      {
+        "name": "Citalopram",
+        "price": 14.99
+      },
+      {
+        "name": "Quetiapine",
+        "price": 13.49
+      }
+    ],
+    "Exams": [
+      "X-ray"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Randy Frye",
+    "Date of Birth": "1994-11-21",
+    "Healthcare number": 619237,
+    "Phone Number": 931238267,
+    "Image": "random.png",
+    "Identity number": 8093899586,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Spirometry",
+      "Echocardiogram"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Steven Murray",
+    "Date of Birth": "1923-05-17",
+    "Healthcare number": 266043,
+    "Phone Number": 935815771,
+    "Image": "random.png",
+    "Identity number": 5575688832,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Morphine",
+        "price": 18.99
+      },
+      {
+        "name": "Cetirizine",
+        "price": 8.49
+      },
+      {
+        "name": "Clopidogrel",
+        "price": 13.49
+      },
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      },
+      {
+        "name": "Glyburide",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Prostate-specific Antigen (PSA) Test",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Mammogram",
+      "Electromyography (EMG)",
+      "Ultrasound"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Destiny Dyer",
+    "Date of Birth": "1978-09-08",
+    "Healthcare number": 318971,
+    "Phone Number": 931847363,
+    "Image": "random.png",
+    "Identity number": 6909999548,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Omeprazole",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Genetic Testing"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Michael Boone",
+    "Date of Birth": "2007-11-03",
+    "Healthcare number": 333910,
+    "Phone Number": 93283470,
+    "Image": "random.png",
+    "Identity number": 9554154832,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Metronidazole",
+        "price": 10.49
+      },
+      {
+        "name": "Fluticasone",
+        "price": 12.99
+      },
+      {
+        "name": "Esomeprazole",
+        "price": 9.99
+      },
+      {
+        "name": "Levofloxacin",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Electromyography (EMG)",
+      "Hormone Tests",
+      "Lumbar Puncture",
+      "Pap Smear",
+      "Biopsy",
+      "Pulmonary Function Tests (PFT)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Bradley Dillon",
+    "Date of Birth": "1932-07-12",
+    "Healthcare number": 668870,
+    "Phone Number": 962856246,
+    "Image": "random.png",
+    "Identity number": 1155498852,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Citalopram",
+        "price": 14.99
+      },
+      {
+        "name": "Cetirizine",
+        "price": 8.49
+      },
+      {
+        "name": "Quetiapine",
+        "price": 13.49
+      },
+      {
+        "name": "Ibuprofen",
+        "price": 7.99
+      },
+      {
+        "name": "Metformin",
+        "price": 7.49
+      }
+    ],
+    "Exams": [
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Electromyography (EMG)",
+      "Hormone Tests",
+      "Allergy Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Paula Armstrong",
+    "Date of Birth": "1940-08-26",
+    "Healthcare number": 890000,
+    "Phone Number": 919440132,
+    "Image": "random.png",
+    "Identity number": 8995185775,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Diazepam",
+        "price": 9.49
+      }
+    ],
+    "Exams": [
+      "Holter Monitor",
+      "MRI"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Gina Ryan",
+    "Date of Birth": "1976-01-03",
+    "Healthcare number": 806126,
+    "Phone Number": 96638315,
+    "Image": "random.png",
+    "Identity number": 1521718653,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Gabapentin",
+        "price": 16.49
+      },
+      {
+        "name": "Duloxetine",
+        "price": 12.49
+      }
+    ],
+    "Exams": [
+      "Glucose Tolerance Test",
+      "Electromyography (EMG)",
+      "Bone Density Test",
+      "Lumbar Puncture"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jordan Brown",
+    "Date of Birth": "1959-08-23",
+    "Healthcare number": 306996,
+    "Phone Number": 961456038,
+    "Image": "random.png",
+    "Identity number": 6686901066,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Cetirizine",
+        "price": 8.49
+      },
+      {
+        "name": "Atorvastatin",
+        "price": 15.99
+      },
+      {
+        "name": "Duloxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Metronidazole",
+        "price": 10.49
+      },
+      {
+        "name": "Metformin",
+        "price": 7.49
+      }
+    ],
+    "Exams": [
+      "Ultrasound",
+      "Electroencephalogram (EEG)",
+      "Pap Smear",
+      "Thyroid Function Tests",
+      "Colonoscopy",
+      "Prostate-specific Antigen (PSA) Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Michael Erickson",
+    "Date of Birth": "1936-09-11",
+    "Healthcare number": 427885,
+    "Phone Number": 938187881,
+    "Image": "random.png",
+    "Identity number": 4428920310,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Metoprolol",
+        "price": 12.49
+      },
+      {
+        "name": "Levothyroxine",
+        "price": 8.49
+      },
+      {
+        "name": "Loratadine",
+        "price": 7.49
+      },
+      {
+        "name": "Valacyclovir",
+        "price": 10.99
+      },
+      {
+        "name": "Venlafaxine",
+        "price": 12.99
+      }
+    ],
+    "Exams": [
+      "Colonoscopy",
+      "Urinalysis",
+      "Bone Density Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Martha Young",
+    "Date of Birth": "1946-03-20",
+    "Healthcare number": 555516,
+    "Phone Number": 915838020,
+    "Image": "random.png",
+    "Identity number": 9456497912,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Spirometry",
+      "Urinalysis",
+      "Thyroid Function Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Donald Sanchez",
+    "Date of Birth": "1991-07-06",
+    "Healthcare number": 173934,
+    "Phone Number": 911768393,
+    "Image": "random.png",
+    "Identity number": 2534281088,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Lisinopril",
+        "price": 8.99
+      },
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      },
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Holter Monitor",
+      "Liver Function TestsComplete Blood Count (CBC)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Robert Morris",
+    "Date of Birth": "1967-11-13",
+    "Healthcare number": 781523,
+    "Phone Number": 933273421,
+    "Image": "random.png",
+    "Identity number": 5300105067,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      },
+      {
+        "name": "Diazepam",
+        "price": 9.49
+      },
+      {
+        "name": "Cyclobenzaprine",
+        "price": 11.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Tyler Mays",
+    "Date of Birth": "1933-03-13",
+    "Healthcare number": 212787,
+    "Phone Number": 913010211,
+    "Image": "random.png",
+    "Identity number": 4403428559,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      },
+      {
+        "name": "Naproxen",
+        "price": 9.99
+      },
+      {
+        "name": "Memantine",
+        "price": 11.49
+      }
+    ],
+    "Exams": [
+      "Bone Density Test",
+      "Patch Test",
+      "Glucose Tolerance Test",
+      "Skin Biopsy",
+      "Electroencephalogram (EEG)",
+      "Spirometry"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "John Hamilton",
+    "Date of Birth": "1929-03-06",
+    "Healthcare number": 179801,
+    "Phone Number": 968699584,
+    "Image": "random.png",
+    "Identity number": 6367104228,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Memantine",
+        "price": 11.49
+      },
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      },
+      {
+        "name": "Cyclobenzaprine",
+        "price": 11.99
+      },
+      {
+        "name": "Omeprazole",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Biopsy",
+      "Allergy Tests",
+      "Electroencephalogram (EEG)",
+      "Endoscopy",
+      "Holter Monitor",
+      "Urinalysis",
+      "Genetic Testing",
+      "Thyroid Function Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Terri Howell",
+    "Date of Birth": "1916-03-17",
+    "Healthcare number": 533666,
+    "Phone Number": 915095562,
+    "Image": "random.png",
+    "Identity number": 7756435958,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Donepezil",
+        "price": 12.99
+      },
+      {
+        "name": "Tramadol",
+        "price": 15.99
+      },
+      {
+        "name": "Aripiprazole",
+        "price": 14.99
+      },
+      {
+        "name": "Esomeprazole",
+        "price": 9.99
+      },
+      {
+        "name": "Amoxicillin",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Glucose Tolerance Test",
+      "Holter Monitor",
+      "CT Scan",
+      "DEXA Scan",
+      "Urinalysis"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Alan Mitchell",
+    "Date of Birth": "1916-12-24",
+    "Healthcare number": 431081,
+    "Phone Number": 964491544,
+    "Image": "random.png",
+    "Identity number": 5812722867,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Fluoxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      },
+      {
+        "name": "Prednisone",
+        "price": 7.99
+      },
+      {
+        "name": "Atorvastatin",
+        "price": 15.99
+      }
+    ],
+    "Exams": [
+      "MRI",
+      "Stress Test",
+      "Pulmonary Function Tests (PFT)",
+      "Electroencephalogram (EEG)",
+      "CT Scan"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jasmine Long",
+    "Date of Birth": "1976-12-11",
+    "Healthcare number": 429409,
+    "Phone Number": 938198944,
+    "Image": "random.png",
+    "Identity number": 3715575438,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Atorvastatin",
+        "price": 15.99
+      },
+      {
+        "name": "Fluticasone",
+        "price": 12.99
+      },
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Electromyography (EMG)",
+      "MRI",
+      "Lumbar Puncture",
+      "Bone Density Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Angie Dunn",
+    "Date of Birth": "1908-03-11",
+    "Healthcare number": 212233,
+    "Phone Number": 917006573,
+    "Image": "random.png",
+    "Identity number": 2742007723,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Pap Smear",
+      "Allergy Tests",
+      "Spirometry",
+      "Patch Test",
+      "Glucose Tolerance Test",
+      "Thyroid Function Tests",
+      "Genetic Testing"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Lance Williams",
+    "Date of Birth": "1972-08-11",
+    "Healthcare number": 618662,
+    "Phone Number": 929997450,
+    "Image": "random.png",
+    "Identity number": 3758043158,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Furosemide",
+        "price": 8.49
+      },
+      {
+        "name": "Olanzapine",
+        "price": 15.99
+      },
+      {
+        "name": "Naproxen",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Prostate-specific Antigen (PSA) Test",
+      "Blood Work",
+      "Biopsy",
+      "Skin Biopsy",
+      "Genetic Testing",
+      "Ultrasound",
+      "Patch Test",
+      "Endoscopy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Andrew Taylor",
+    "Date of Birth": "1968-09-03",
+    "Healthcare number": 804410,
+    "Phone Number": 921317166,
+    "Image": "random.png",
+    "Identity number": 5966875265,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      },
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      },
+      {
+        "name": "Morphine",
+        "price": 18.99
+      },
+      {
+        "name": "Rivastigmine",
+        "price": 14.99
+      }
+    ],
+    "Exams": [
+      "X-ray",
+      "ECG",
+      "Stress Test",
+      "Spirometry",
+      "MRI",
+      "Electroencephalogram (EEG)",
+      "Hormone Tests",
+      "Pap Smear"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Alexander Barnes",
+    "Date of Birth": "1993-04-19",
+    "Healthcare number": 292767,
+    "Phone Number": 936153940,
+    "Image": "random.png",
+    "Identity number": 4411334378,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amoxicillin",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Prostate-specific Antigen (PSA) Test",
+      "Blood Work",
+      "CT Scan",
+      "Pap Smear",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "X-ray"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Erin Bautista",
+    "Date of Birth": "1980-03-05",
+    "Healthcare number": 548984,
+    "Phone Number": 962536215,
+    "Image": "random.png",
+    "Identity number": 4394387303,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Donepezil",
+        "price": 12.99
+      },
+      {
+        "name": "Valacyclovir",
+        "price": 10.99
+      },
+      {
+        "name": "Amoxicillin",
+        "price": 9.99
+      },
+      {
+        "name": "Candesartan",
+        "price": 11.49
+      }
+    ],
+    "Exams": [
+      "Patch Test",
+      "Blood Work",
+      "Urinalysis",
+      "Allergy Tests",
+      "X-ray"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Grant Diaz",
+    "Date of Birth": "2020-01-31",
+    "Healthcare number": 934248,
+    "Phone Number": 931587289,
+    "Image": "random.png",
+    "Identity number": 4978681645,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Venlafaxine",
+        "price": 12.99
+      },
+      {
+        "name": "Metoprolol",
+        "price": 12.49
+      },
+      {
+        "name": "Clonazepam",
+        "price": 11.49
+      },
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "DEXA Scan"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Nathaniel Walters",
+    "Date of Birth": "1986-06-20",
+    "Healthcare number": 479275,
+    "Phone Number": 924716327,
+    "Image": "random.png",
+    "Identity number": 8622107092,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Memantine",
+        "price": 11.49
+      },
+      {
+        "name": "Mirtazapine",
+        "price": 12.99
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 6.99
+      },
+      {
+        "name": "Dexamethasone",
+        "price": 9.49
+      }
+    ],
+    "Exams": [
+      "Patch Test",
+      "Spirometry",
+      "Hormone Tests",
+      "Pap Smear",
+      "Liver Function TestsComplete Blood Count (CBC)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Chase Obrien",
+    "Date of Birth": "1967-07-04",
+    "Healthcare number": 954762,
+    "Phone Number": 912327169,
+    "Image": "random.png",
+    "Identity number": 6068843423,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Metoprolol",
+        "price": 12.49
+      },
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      },
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      },
+      {
+        "name": "Fluoxetine",
+        "price": 12.49
+      }
+    ],
+    "Exams": [
+      "Blood Work",
+      "CT Scan",
+      "Skin Biopsy",
+      "Biopsy",
+      "Urinalysis",
+      "Electromyography (EMG)",
+      "Mammogram"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Daniel Phillips",
+    "Date of Birth": "1955-02-23",
+    "Healthcare number": 665467,
+    "Phone Number": 924877583,
+    "Image": "random.png",
+    "Identity number": 7516129251,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Azithromycin",
+        "price": 14.99
+      },
+      {
+        "name": "Citalopram",
+        "price": 14.99
+      },
+      {
+        "name": "Aspirin",
+        "price": 5.99
+      },
+      {
+        "name": "Atomoxetine",
+        "price": 14.99
+      },
+      {
+        "name": "Levofloxacin",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "ECG",
+      "Echocardiogram",
+      "Electroencephalogram (EEG)",
+      "Bone Density Test",
+      "Ultrasound",
+      "Pulmonary Function Tests (PFT)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jacob Jones",
+    "Date of Birth": "1957-01-13",
+    "Healthcare number": 104778,
+    "Phone Number": 939138036,
+    "Image": "random.png",
+    "Identity number": 8085910595,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Valacyclovir",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Glucose Tolerance Test",
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Richard Owens",
+    "Date of Birth": "1953-07-09",
+    "Healthcare number": 319734,
+    "Phone Number": 927685703,
+    "Image": "random.png",
+    "Identity number": 6670631841,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Skin Biopsy",
+      "Echocardiogram",
+      "CT Scan",
+      "Lumbar Puncture",
+      "DEXA Scan",
+      "Holter Monitor",
+      "Prostate-specific Antigen (PSA) Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Lisa Scott",
+    "Date of Birth": "1989-08-09",
+    "Healthcare number": 111830,
+    "Phone Number": 965652567,
+    "Image": "random.png",
+    "Identity number": 8712898946,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Bupropion",
+        "price": 11.99
+      },
+      {
+        "name": "Meloxicam",
+        "price": 9.99
+      },
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jerry Best",
+    "Date of Birth": "1924-12-19",
+    "Healthcare number": 393467,
+    "Phone Number": 935720667,
+    "Image": "random.png",
+    "Identity number": 5485700472,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Cyclobenzaprine",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Pap Smear",
+      "Biopsy",
+      "Patch Test",
+      "CT Scan",
+      "ECG",
+      "Endoscopy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Morgan Nichols",
+    "Date of Birth": "1976-02-11",
+    "Healthcare number": 331203,
+    "Phone Number": 967459232,
+    "Image": "random.png",
+    "Identity number": 1090399272,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amoxicillin",
+        "price": 9.99
+      },
+      {
+        "name": "Donepezil",
+        "price": 12.99
+      },
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Stress Test",
+      "Bone Density Test",
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Michelle Russell",
+    "Date of Birth": "1956-07-11",
+    "Healthcare number": 735032,
+    "Phone Number": 911714668,
+    "Image": "random.png",
+    "Identity number": 2085657801,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Clopidogrel",
+        "price": 13.49
+      },
+      {
+        "name": "Metformin",
+        "price": 7.49
+      }
+    ],
+    "Exams": [
+      "Ultrasound"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Thomas Cameron",
+    "Date of Birth": "1918-05-28",
+    "Healthcare number": 301658,
+    "Phone Number": 914380156,
+    "Image": "random.png",
+    "Identity number": 7059140519,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      },
+      {
+        "name": "Amoxicillin",
+        "price": 9.99
+      },
+      {
+        "name": "Warfarin",
+        "price": 6.99
+      }
+    ],
+    "Exams": [
+      "Electromyography (EMG)",
+      "Biopsy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Alexander King",
+    "Date of Birth": "1981-07-11",
+    "Healthcare number": 816281,
+    "Phone Number": 93347241,
+    "Image": "random.png",
+    "Identity number": 3650355519,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Trazodone",
+        "price": 10.99
+      },
+      {
+        "name": "Clonazepam",
+        "price": 11.49
+      },
+      {
+        "name": "Topiramate",
+        "price": 10.99
+      },
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      },
+      {
+        "name": "Morphine",
+        "price": 18.99
+      }
+    ],
+    "Exams": [
+      "Urinalysis",
+      "Holter Monitor"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jennifer Terry",
+    "Date of Birth": "1993-01-02",
+    "Healthcare number": 520336,
+    "Phone Number": 916331183,
+    "Image": "random.png",
+    "Identity number": 7736808727,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Topiramate",
+        "price": 10.99
+      },
+      {
+        "name": "Fluoxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Valacyclovir",
+        "price": 10.99
+      },
+      {
+        "name": "Esomeprazole",
+        "price": 9.99
+      },
+      {
+        "name": "Diazepam",
+        "price": 9.49
+      }
+    ],
+    "Exams": [
+      "Urinalysis",
+      "Pap Smear"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Alexandra Carter",
+    "Date of Birth": "1909-07-21",
+    "Healthcare number": 566731,
+    "Phone Number": 935588602,
+    "Image": "random.png",
+    "Identity number": 3133954142,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Diazepam",
+        "price": 9.49
+      },
+      {
+        "name": "Amoxicillin",
+        "price": 9.99
+      },
+      {
+        "name": "Doxycycline",
+        "price": 7.99
+      },
+      {
+        "name": "Simvastatin",
+        "price": 13.99
+      },
+      {
+        "name": "Rivastigmine",
+        "price": 14.99
+      }
+    ],
+    "Exams": [
+      "Mammogram",
+      "Bone Density Test",
+      "Pap Smear",
+      "Patch Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Natalie Welch",
+    "Date of Birth": "1991-03-05",
+    "Healthcare number": 489482,
+    "Phone Number": 924695307,
+    "Image": "random.png",
+    "Identity number": 9845822411,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      },
+      {
+        "name": "Albuterol",
+        "price": 11.99
+      },
+      {
+        "name": "Topiramate",
+        "price": 10.99
+      },
+      {
+        "name": "Amlodipine",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Genetic Testing",
+      "Patch Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Victor Macdonald",
+    "Date of Birth": "1932-10-06",
+    "Healthcare number": 376523,
+    "Phone Number": 916865746,
+    "Image": "random.png",
+    "Identity number": 6350718781,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Ranitidine",
+        "price": 7.99
+      }
+    ],
+    "Exams": [
+      "Electromyography (EMG)",
+      "Ultrasound",
+      "ECG",
+      "Mammogram"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Dennis Smith",
+    "Date of Birth": "1948-07-02",
+    "Healthcare number": 268287,
+    "Phone Number": 913928817,
+    "Image": "random.png",
+    "Identity number": 7160438071,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Pantoprazole",
+        "price": 10.99
+      },
+      {
+        "name": "Omeprazole",
+        "price": 10.99
+      },
+      {
+        "name": "Aspirin",
+        "price": 5.99
+      }
+    ],
+    "Exams": [
+      "Endoscopy",
+      "Genetic Testing",
+      "Hormone Tests",
+      "Electromyography (EMG)",
+      "Echocardiogram",
+      "Thyroid Function Tests",
+      "CT Scan",
+      "Allergy Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "John Jones",
+    "Date of Birth": "1921-09-05",
+    "Healthcare number": 419122,
+    "Phone Number": 931602117,
+    "Image": "random.png",
+    "Identity number": 8334632406,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Gabapentin",
+        "price": 16.49
+      },
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      }
+    ],
+    "Exams": [
+      "ECG",
+      "Biopsy",
+      "X-ray",
+      "Holter Monitor",
+      "Patch Test",
+      "Spirometry",
+      "Prostate-specific Antigen (PSA) Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Brian Maldonado",
+    "Date of Birth": "1927-03-07",
+    "Healthcare number": 774053,
+    "Phone Number": 92253629,
+    "Image": "random.png",
+    "Identity number": 9125643720,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      },
+      {
+        "name": "Esomeprazole",
+        "price": 9.99
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "price": 9.99
+      },
+      {
+        "name": "Losartan",
+        "price": 11.49
+      }
+    ],
+    "Exams": [
+      "Allergy Tests",
+      "Pulmonary Function Tests (PFT)",
+      "Echocardiogram",
+      "Electroencephalogram (EEG)",
+      "CT Scan",
+      "Lumbar Puncture"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Timothy Lopez",
+    "Date of Birth": "2007-02-21",
+    "Healthcare number": 495852,
+    "Phone Number": 932905751,
+    "Image": "random.png",
+    "Identity number": 9528309406,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Skin Biopsy",
+      "Genetic Testing"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Linda Brown",
+    "Date of Birth": "1919-11-18",
+    "Healthcare number": 235630,
+    "Phone Number": 926182315,
+    "Image": "random.png",
+    "Identity number": 2228229120,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Diazepam",
+        "price": 9.49
+      }
+    ],
+    "Exams": [
+      "Blood Work",
+      "Urinalysis",
+      "Spirometry"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "John Duncan",
+    "Date of Birth": "1918-10-31",
+    "Healthcare number": 764386,
+    "Phone Number": 917087945,
+    "Image": "random.png",
+    "Identity number": 8975548158,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Clonazepam",
+        "price": 11.49
+      },
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      },
+      {
+        "name": "Loratadine",
+        "price": 7.49
+      }
+    ],
+    "Exams": [
+      "Genetic Testing",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Endoscopy",
+      "MRI",
+      "Mammogram"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Frank Cox",
+    "Date of Birth": "1951-01-27",
+    "Healthcare number": 453718,
+    "Phone Number": 925131927,
+    "Image": "random.png",
+    "Identity number": 1014573943,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      },
+      {
+        "name": "Esomeprazole",
+        "price": 9.99
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 6.99
+      }
+    ],
+    "Exams": [
+      "Pap Smear",
+      "Blood Work",
+      "Thyroid Function Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "William Franklin",
+    "Date of Birth": "1980-10-03",
+    "Healthcare number": 299313,
+    "Phone Number": 9163133,
+    "Image": "random.png",
+    "Identity number": 9723288622,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "X-ray",
+      "Colonoscopy",
+      "Glucose Tolerance Test",
+      "Blood Work",
+      "Mammogram",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Genetic Testing",
+      "Patch Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Vincent Cruz",
+    "Date of Birth": "2016-07-10",
+    "Healthcare number": 255358,
+    "Phone Number": 914728596,
+    "Image": "random.png",
+    "Identity number": 7584207885,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Acyclovir",
+        "price": 8.49
+      },
+      {
+        "name": "Warfarin",
+        "price": 6.99
+      },
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      },
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      },
+      {
+        "name": "Doxycycline",
+        "price": 7.99
+      }
+    ],
+    "Exams": [
+      "Ultrasound",
+      "Allergy Tests",
+      "Glucose Tolerance Test",
+      "Electromyography (EMG)",
+      "ECG",
+      "Pulmonary Function Tests (PFT)",
+      "Stress Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Chase Hoffman",
+    "Date of Birth": "2004-11-01",
+    "Healthcare number": 557427,
+    "Phone Number": 91332755,
+    "Image": "random.png",
+    "Identity number": 6864277394,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Ryan Maxwell",
+    "Date of Birth": "1981-09-17",
+    "Healthcare number": 431084,
+    "Phone Number": 92417588,
+    "Image": "random.png",
+    "Identity number": 7738297325,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Acetaminophen",
+        "price": 6.99
+      },
+      {
+        "name": "Morphine",
+        "price": 18.99
+      },
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      },
+      {
+        "name": "Quetiapine",
+        "price": 13.49
+      }
+    ],
+    "Exams": [
+      "Thyroid Function Tests",
+      "MRI",
+      "Bone Density Test",
+      "CT Scan",
+      "Hormone Tests",
+      "Allergy Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Thomas Morales",
+    "Date of Birth": "1933-10-22",
+    "Healthcare number": 638398,
+    "Phone Number": 929237497,
+    "Image": "random.png",
+    "Identity number": 6799970258,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Mammogram",
+      "Thyroid Function Tests",
+      "Liver Function TestsComplete Blood Count (CBC)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Mr. Jonathan Bishop",
+    "Date of Birth": "1918-02-22",
+    "Healthcare number": 779999,
+    "Phone Number": 963753531,
+    "Image": "random.png",
+    "Identity number": 9341797622,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Topiramate",
+        "price": 10.99
+      },
+      {
+        "name": "Warfarin",
+        "price": 6.99
+      },
+      {
+        "name": "Loratadine",
+        "price": 7.49
+      }
+    ],
+    "Exams": [
+      "X-ray",
+      "Prostate-specific Antigen (PSA) Test",
+      "Mammogram"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jeffery Castro",
+    "Date of Birth": "1931-07-04",
+    "Healthcare number": 890468,
+    "Phone Number": 927125813,
+    "Image": "random.png",
+    "Identity number": 9512093641,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Aspirin",
+        "price": 5.99
+      }
+    ],
+    "Exams": [
+      "Genetic Testing",
+      "Colonoscopy",
+      "Skin Biopsy",
+      "Pulmonary Function Tests (PFT)",
+      "DEXA Scan",
+      "Bone Density Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Todd Horton",
+    "Date of Birth": "1998-06-28",
+    "Healthcare number": 607956,
+    "Phone Number": 965069202,
+    "Image": "random.png",
+    "Identity number": 8826480898,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Naproxen",
+        "price": 9.99
+      },
+      {
+        "name": "Citalopram",
+        "price": 14.99
+      },
+      {
+        "name": "Olanzapine",
+        "price": 15.99
+      },
+      {
+        "name": "Ranitidine",
+        "price": 7.99
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 6.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Paula Gomez",
+    "Date of Birth": "2020-08-27",
+    "Healthcare number": 929725,
+    "Phone Number": 965829168,
+    "Image": "random.png",
+    "Identity number": 1361489534,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Cetirizine",
+        "price": 8.49
+      },
+      {
+        "name": "Metronidazole",
+        "price": 10.49
+      },
+      {
+        "name": "Ciprofloxacin",
+        "price": 12.99
+      },
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      },
+      {
+        "name": "Mirtazapine",
+        "price": 12.99
+      }
+    ],
+    "Exams": [
+      "Genetic Testing",
+      "Ultrasound"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Mark Green",
+    "Date of Birth": "2004-04-01",
+    "Healthcare number": 632983,
+    "Phone Number": 91436743,
+    "Image": "random.png",
+    "Identity number": 4438873858,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "MRI",
+      "Lumbar Puncture",
+      "Electromyography (EMG)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jeffrey Moore",
+    "Date of Birth": "1951-05-27",
+    "Healthcare number": 549813,
+    "Phone Number": 961308544,
+    "Image": "random.png",
+    "Identity number": 7124020274,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Diazepam",
+        "price": 9.49
+      },
+      {
+        "name": "Meloxicam",
+        "price": 9.99
+      },
+      {
+        "name": "Clopidogrel",
+        "price": 13.49
+      }
+    ],
+    "Exams": [
+      "Prostate-specific Antigen (PSA) Test",
+      "Colonoscopy",
+      "Electromyography (EMG)",
+      "DEXA Scan",
+      "Thyroid Function Tests",
+      "ECG",
+      "Pulmonary Function Tests (PFT)",
+      "Glucose Tolerance Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Lindsey Nunez",
+    "Date of Birth": "1969-11-05",
+    "Healthcare number": 752779,
+    "Phone Number": 912671605,
+    "Image": "random.png",
+    "Identity number": 7942245690,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Azithromycin",
+        "price": 14.99
+      }
+    ],
+    "Exams": [
+      "Glucose Tolerance Test",
+      "Skin Biopsy",
+      "Patch Test",
+      "Colonoscopy",
+      "Ultrasound"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jennifer Brown",
+    "Date of Birth": "1994-02-09",
+    "Healthcare number": 136304,
+    "Phone Number": 912070020,
+    "Image": "random.png",
+    "Identity number": 8999713818,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      },
+      {
+        "name": "Acyclovir",
+        "price": 8.49
+      },
+      {
+        "name": "Prednisone",
+        "price": 7.99
+      }
+    ],
+    "Exams": [
+      "Bone Density Test",
+      "Allergy Tests",
+      "Electromyography (EMG)",
+      "Mammogram",
+      "Pulmonary Function Tests (PFT)",
+      "ECG",
+      "Biopsy",
+      "CT Scan"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Oscar Carter",
+    "Date of Birth": "1998-02-09",
+    "Healthcare number": 939624,
+    "Phone Number": 965150307,
+    "Image": "random.png",
+    "Identity number": 9495215873,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Ibuprofen",
+        "price": 7.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Julie Brown",
+    "Date of Birth": "1916-04-17",
+    "Healthcare number": 520716,
+    "Phone Number": 919443871,
+    "Image": "random.png",
+    "Identity number": 3523412049,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amlodipine",
+        "price": 10.99
+      },
+      {
+        "name": "Citalopram",
+        "price": 14.99
+      },
+      {
+        "name": "Tramadol",
+        "price": 15.99
+      },
+      {
+        "name": "Bupropion",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "MRI",
+      "Holter Monitor",
+      "Electromyography (EMG)",
+      "Ultrasound",
+      "Hormone Tests",
+      "Spirometry"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Carl Gutierrez",
+    "Date of Birth": "1966-12-14",
+    "Healthcare number": 167087,
+    "Phone Number": 965837651,
+    "Image": "random.png",
+    "Identity number": 5708098003,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Pap Smear",
+      "Blood Work",
+      "Pulmonary Function Tests (PFT)",
+      "Mammogram",
+      "Thyroid Function Tests",
+      "Skin Biopsy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Kathy Hernandez",
+    "Date of Birth": "1957-03-31",
+    "Healthcare number": 558095,
+    "Phone Number": 93419126,
+    "Image": "random.png",
+    "Identity number": 9374757004,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "DEXA Scan",
+      "Spirometry",
+      "Biopsy",
+      "Thyroid Function Tests",
+      "Skin Biopsy",
+      "Patch Test",
+      "Allergy Tests",
+      "Ultrasound"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Cory Barry",
+    "Date of Birth": "1948-07-01",
+    "Healthcare number": 141941,
+    "Phone Number": 938657399,
+    "Image": "random.png",
+    "Identity number": 5224127908,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      },
+      {
+        "name": "Glyburide",
+        "price": 10.99
+      },
+      {
+        "name": "Carbamazepine",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Echocardiogram",
+      "Lumbar Puncture",
+      "Electroencephalogram (EEG)",
+      "Allergy Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Christine Collins",
+    "Date of Birth": "1978-03-16",
+    "Healthcare number": 662236,
+    "Phone Number": 936964332,
+    "Image": "random.png",
+    "Identity number": 8773400226,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Tyler Jones",
+    "Date of Birth": "2017-12-09",
+    "Healthcare number": 209054,
+    "Phone Number": 928675326,
+    "Image": "random.png",
+    "Identity number": 5676985008,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Endoscopy",
+      "Colonoscopy",
+      "Electroencephalogram (EEG)",
+      "DEXA Scan",
+      "MRI",
+      "Prostate-specific Antigen (PSA) Test",
+      "Patch Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jamie Garcia",
+    "Date of Birth": "1943-01-07",
+    "Healthcare number": 800853,
+    "Phone Number": 925200055,
+    "Image": "random.png",
+    "Identity number": 2298284115,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Venlafaxine",
+        "price": 12.99
+      },
+      {
+        "name": "Citalopram",
+        "price": 14.99
+      },
+      {
+        "name": "Losartan",
+        "price": 11.49
+      },
+      {
+        "name": "Esomeprazole",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Echocardiogram",
+      "Skin Biopsy",
+      "Stress Test",
+      "Hormone Tests",
+      "Urinalysis"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Thomas Kelley",
+    "Date of Birth": "1916-10-19",
+    "Healthcare number": 607031,
+    "Phone Number": 919664718,
+    "Image": "random.png",
+    "Identity number": 3363489968,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Acyclovir",
+        "price": 8.49
+      },
+      {
+        "name": "Omeprazole",
+        "price": 10.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Penny Gallagher",
+    "Date of Birth": "2022-03-08",
+    "Healthcare number": 228458,
+    "Phone Number": 929525430,
+    "Image": "random.png",
+    "Identity number": 4195738761,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Risperidone",
+        "price": 11.99
+      },
+      {
+        "name": "Levofloxacin",
+        "price": 13.99
+      },
+      {
+        "name": "Gabapentin",
+        "price": 16.49
+      },
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "MRI",
+      "Hormone Tests",
+      "Thyroid Function Tests",
+      "Allergy Tests",
+      "Endoscopy",
+      "Pap Smear"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Kimberly Jones",
+    "Date of Birth": "1911-07-07",
+    "Healthcare number": 811171,
+    "Phone Number": 922374369,
+    "Image": "random.png",
+    "Identity number": 4878995675,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      },
+      {
+        "name": "Valacyclovir",
+        "price": 10.99
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Prostate-specific Antigen (PSA) Test",
+      "Lumbar Puncture",
+      "Thyroid Function Tests",
+      "Colonoscopy",
+      "Urinalysis"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Janet Walker",
+    "Date of Birth": "1980-02-06",
+    "Healthcare number": 592212,
+    "Phone Number": 921046988,
+    "Image": "random.png",
+    "Identity number": 9707249909,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Warfarin",
+        "price": 6.99
+      }
+    ],
+    "Exams": [
+      "Mammogram",
+      "Electromyography (EMG)",
+      "Biopsy",
+      "Liver Function TestsComplete Blood Count (CBC)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Ann Lee",
+    "Date of Birth": "2020-10-21",
+    "Healthcare number": 155618,
+    "Phone Number": 934739639,
+    "Image": "random.png",
+    "Identity number": 4443893362,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Trazodone",
+        "price": 10.99
+      },
+      {
+        "name": "Losartan",
+        "price": 11.49
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 6.99
+      },
+      {
+        "name": "Glyburide",
+        "price": 10.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Donna Jordan",
+    "Date of Birth": "1960-01-26",
+    "Healthcare number": 529131,
+    "Phone Number": 966001560,
+    "Image": "random.png",
+    "Identity number": 8987147565,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Risperidone",
+        "price": 11.99
+      },
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      },
+      {
+        "name": "Venlafaxine",
+        "price": 12.99
+      },
+      {
+        "name": "Glyburide",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "CT Scan",
+      "Biopsy",
+      "Spirometry",
+      "Stress Test",
+      "Holter Monitor",
+      "Bone Density Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Kristine Thomas",
+    "Date of Birth": "1917-09-16",
+    "Healthcare number": 740824,
+    "Phone Number": 939534205,
+    "Image": "random.png",
+    "Identity number": 2931475996,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      },
+      {
+        "name": "Morphine",
+        "price": 18.99
+      },
+      {
+        "name": "Ranitidine",
+        "price": 7.99
+      }
+    ],
+    "Exams": [
+      "Holter Monitor",
+      "Lumbar Puncture",
+      "DEXA Scan",
+      "Stress Test",
+      "Pap Smear",
+      "Electroencephalogram (EEG)",
+      "MRI",
+      "X-ray"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Carlos Bernard",
+    "Date of Birth": "1952-01-30",
+    "Healthcare number": 748568,
+    "Phone Number": 921804723,
+    "Image": "random.png",
+    "Identity number": 2564526113,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Lisinopril",
+        "price": 8.99
+      },
+      {
+        "name": "Esomeprazole",
+        "price": 9.99
+      },
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      }
+    ],
+    "Exams": [
+      "ECG",
+      "Genetic Testing",
+      "Biopsy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Lori Thompson",
+    "Date of Birth": "2015-12-31",
+    "Healthcare number": 570874,
+    "Phone Number": 937605828,
+    "Image": "random.png",
+    "Identity number": 8272088782,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Pap Smear",
+      "CT Scan",
+      "Blood Work",
+      "Allergy Tests",
+      "Ultrasound",
+      "Holter Monitor",
+      "Lumbar Puncture",
+      "MRI"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Connie Ortega",
+    "Date of Birth": "1937-04-28",
+    "Healthcare number": 839493,
+    "Phone Number": 961070776,
+    "Image": "random.png",
+    "Identity number": 9878047771,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Patch Test",
+      "Allergy Tests",
+      "Bone Density Test",
+      "Lumbar Puncture",
+      "Hormone Tests",
+      "Colonoscopy",
+      "Skin Biopsy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Katherine Mathis",
+    "Date of Birth": "1920-08-15",
+    "Healthcare number": 524588,
+    "Phone Number": 921775459,
+    "Image": "random.png",
+    "Identity number": 3099514496,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      },
+      {
+        "name": "Metoprolol",
+        "price": 12.49
+      },
+      {
+        "name": "Doxycycline",
+        "price": 7.99
+      }
+    ],
+    "Exams": [
+      "Electromyography (EMG)",
+      "Pulmonary Function Tests (PFT)",
+      "Holter Monitor",
+      "Colonoscopy",
+      "Stress Test",
+      "Genetic Testing"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Ruth Smith",
+    "Date of Birth": "1993-11-07",
+    "Healthcare number": 488969,
+    "Phone Number": 968568408,
+    "Image": "random.png",
+    "Identity number": 2986141736,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jared Blair",
+    "Date of Birth": "1987-02-13",
+    "Healthcare number": 600898,
+    "Phone Number": 922675784,
+    "Image": "random.png",
+    "Identity number": 5519949915,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Pantoprazole",
+        "price": 10.99
+      },
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      },
+      {
+        "name": "Loratadine",
+        "price": 7.49
+      },
+      {
+        "name": "Morphine",
+        "price": 18.99
+      },
+      {
+        "name": "Donepezil",
+        "price": 12.99
+      }
+    ],
+    "Exams": [
+      "Bone Density Test",
+      "DEXA Scan",
+      "Endoscopy",
+      "Lumbar Puncture",
+      "Biopsy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Gabriel Anderson",
+    "Date of Birth": "2002-10-09",
+    "Healthcare number": 213007,
+    "Phone Number": 92929302,
+    "Image": "random.png",
+    "Identity number": 6384057329,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Candesartan",
+        "price": 11.49
+      },
+      {
+        "name": "Albuterol",
+        "price": 11.99
+      },
+      {
+        "name": "Metformin",
+        "price": 7.49
+      },
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Michael Frazier",
+    "Date of Birth": "1941-07-31",
+    "Healthcare number": 628068,
+    "Phone Number": 925907592,
+    "Image": "random.png",
+    "Identity number": 5745475512,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Ciprofloxacin",
+        "price": 12.99
+      },
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      },
+      {
+        "name": "Cephalexin",
+        "price": 14.99
+      },
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "DEXA Scan",
+      "Biopsy",
+      "Electroencephalogram (EEG)",
+      "Spirometry",
+      "Pap Smear",
+      "MRI",
+      "Echocardiogram",
+      "Patch Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Ashley Gillespie",
+    "Date of Birth": "1987-08-18",
+    "Healthcare number": 187711,
+    "Phone Number": 927126865,
+    "Image": "random.png",
+    "Identity number": 4547141937,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Lisinopril",
+        "price": 8.99
+      },
+      {
+        "name": "Bupropion",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Endoscopy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Karen Good",
+    "Date of Birth": "2003-06-08",
+    "Healthcare number": 838171,
+    "Phone Number": 923736135,
+    "Image": "random.png",
+    "Identity number": 9745297714,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Genetic Testing",
+      "Spirometry",
+      "Patch Test",
+      "Electroencephalogram (EEG)",
+      "Urinalysis",
+      "Lumbar Puncture"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Joseph Best",
+    "Date of Birth": "1987-03-22",
+    "Healthcare number": 634830,
+    "Phone Number": 929235963,
+    "Image": "random.png",
+    "Identity number": 5236148951,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Simvastatin",
+        "price": 13.99
+      },
+      {
+        "name": "Paracetamol",
+        "price": 4.99
+      },
+      {
+        "name": "Topiramate",
+        "price": 10.99
+      },
+      {
+        "name": "Glyburide",
+        "price": 10.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "George Simon",
+    "Date of Birth": "1993-01-02",
+    "Healthcare number": 376078,
+    "Phone Number": 91296969,
+    "Image": "random.png",
+    "Identity number": 3778596178,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Aripiprazole",
+        "price": 14.99
+      },
+      {
+        "name": "Amoxicillin",
+        "price": 9.99
+      },
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      }
+    ],
+    "Exams": [
+      "Patch Test",
+      "Holter Monitor",
+      "Blood Work",
+      "Ultrasound",
+      "Electroencephalogram (EEG)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Brittany Wilson",
+    "Date of Birth": "2004-04-14",
+    "Healthcare number": 477376,
+    "Phone Number": 925092835,
+    "Image": "random.png",
+    "Identity number": 7932864835,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Prostate-specific Antigen (PSA) Test",
+      "Stress Test",
+      "MRI",
+      "Blood Work",
+      "Pap Smear",
+      "Holter Monitor",
+      "Urinalysis",
+      "Echocardiogram"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Evelyn Meyer",
+    "Date of Birth": "1995-03-31",
+    "Healthcare number": 435609,
+    "Phone Number": 966895416,
+    "Image": "random.png",
+    "Identity number": 1563051770,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Metoprolol",
+        "price": 12.49
+      }
+    ],
+    "Exams": [
+      "Allergy Tests",
+      "Electroencephalogram (EEG)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Theresa Gutierrez",
+    "Date of Birth": "1930-11-16",
+    "Healthcare number": 785320,
+    "Phone Number": 938372290,
+    "Image": "random.png",
+    "Identity number": 5794941138,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Risperidone",
+        "price": 11.99
+      },
+      {
+        "name": "Quetiapine",
+        "price": 13.49
+      },
+      {
+        "name": "Ranitidine",
+        "price": 7.99
+      }
+    ],
+    "Exams": [
+      "Lumbar Puncture",
+      "Holter Monitor"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Courtney Escobar",
+    "Date of Birth": "1999-09-28",
+    "Healthcare number": 489313,
+    "Phone Number": 968046134,
+    "Image": "random.png",
+    "Identity number": 3817781216,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "X-ray",
+      "Blood Work",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Thyroid Function Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Ms. Destiny Cisneros",
+    "Date of Birth": "1955-11-17",
+    "Healthcare number": 874394,
+    "Phone Number": 969616770,
+    "Image": "random.png",
+    "Identity number": 4711559797,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Doxycycline",
+        "price": 7.99
+      }
+    ],
+    "Exams": [
+      "X-ray",
+      "Blood Work",
+      "Pulmonary Function Tests (PFT)",
+      "ECG",
+      "Genetic Testing"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Michael Flynn",
+    "Date of Birth": "1912-07-07",
+    "Healthcare number": 555157,
+    "Phone Number": 911771295,
+    "Image": "random.png",
+    "Identity number": 1275368078,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Levofloxacin",
+        "price": 13.99
+      },
+      {
+        "name": "Meloxicam",
+        "price": 9.99
+      },
+      {
+        "name": "Acyclovir",
+        "price": 8.49
+      },
+      {
+        "name": "Clonazepam",
+        "price": 11.49
+      }
+    ],
+    "Exams": [
+      "Holter Monitor",
+      "Allergy Tests",
+      "Hormone Tests",
+      "Pap Smear",
+      "Electroencephalogram (EEG)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jennifer Hill",
+    "Date of Birth": "1908-05-10",
+    "Healthcare number": 895297,
+    "Phone Number": 919635716,
+    "Image": "random.png",
+    "Identity number": 2026632233,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Clopidogrel",
+        "price": 13.49
+      }
+    ],
+    "Exams": [
+      "Mammogram",
+      "Electroencephalogram (EEG)",
+      "CT Scan",
+      "ECG",
+      "Biopsy",
+      "Pap Smear",
+      "Spirometry",
+      "Patch Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jacqueline Tucker",
+    "Date of Birth": "1917-04-03",
+    "Healthcare number": 786752,
+    "Phone Number": 936668419,
+    "Image": "random.png",
+    "Identity number": 9501745927,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "DEXA Scan",
+      "Urinalysis",
+      "Ultrasound",
+      "Thyroid Function Tests",
+      "Allergy Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Stephanie Perkins",
+    "Date of Birth": "1964-08-29",
+    "Healthcare number": 987620,
+    "Phone Number": 966687155,
+    "Image": "random.png",
+    "Identity number": 9282986044,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Ranitidine",
+        "price": 7.99
+      },
+      {
+        "name": "Olanzapine",
+        "price": 15.99
+      },
+      {
+        "name": "Valacyclovir",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Patch Test",
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Rebecca Patel",
+    "Date of Birth": "1980-06-16",
+    "Healthcare number": 787042,
+    "Phone Number": 932655467,
+    "Image": "random.png",
+    "Identity number": 9004709883,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Quetiapine",
+        "price": 13.49
+      },
+      {
+        "name": "Amlodipine",
+        "price": 10.99
+      },
+      {
+        "name": "Trazodone",
+        "price": 10.99
+      },
+      {
+        "name": "Topiramate",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Blood Work",
+      "MRI"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Sarah Shaw",
+    "Date of Birth": "1930-05-16",
+    "Healthcare number": 584663,
+    "Phone Number": 964013106,
+    "Image": "random.png",
+    "Identity number": 4663144397,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Pantoprazole",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Timothy Beltran",
+    "Date of Birth": "1974-08-24",
+    "Healthcare number": 558132,
+    "Phone Number": 915819477,
+    "Image": "random.png",
+    "Identity number": 3267003123,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Atomoxetine",
+        "price": 14.99
+      },
+      {
+        "name": "Aspirin",
+        "price": 5.99
+      },
+      {
+        "name": "Topiramate",
+        "price": 10.99
+      },
+      {
+        "name": "Omeprazole",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Urinalysis",
+      "Echocardiogram",
+      "Stress Test",
+      "Genetic Testing",
+      "Electromyography (EMG)",
+      "MRI",
+      "Glucose Tolerance Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Stacy Sullivan",
+    "Date of Birth": "2003-01-05",
+    "Healthcare number": 796537,
+    "Phone Number": 96265333,
+    "Image": "random.png",
+    "Identity number": 3669572146,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Fluoxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      },
+      {
+        "name": "Atomoxetine",
+        "price": 14.99
+      },
+      {
+        "name": "Simvastatin",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Electromyography (EMG)",
+      "Electroencephalogram (EEG)",
+      "Endoscopy",
+      "Ultrasound",
+      "X-ray"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Rachael Clay",
+    "Date of Birth": "2010-11-11",
+    "Healthcare number": 439420,
+    "Phone Number": 967452158,
+    "Image": "random.png",
+    "Identity number": 8426006825,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      },
+      {
+        "name": "Loratadine",
+        "price": 7.49
+      },
+      {
+        "name": "Aripiprazole",
+        "price": 14.99
+      },
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      },
+      {
+        "name": "Meloxicam",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "MRI",
+      "Prostate-specific Antigen (PSA) Test",
+      "Thyroid Function Tests",
+      "Colonoscopy",
+      "Glucose Tolerance Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Robert Howard",
+    "Date of Birth": "1925-10-19",
+    "Healthcare number": 335976,
+    "Phone Number": 914991617,
+    "Image": "random.png",
+    "Identity number": 4348344249,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Atorvastatin",
+        "price": 15.99
+      }
+    ],
+    "Exams": [
+      "Pulmonary Function Tests (PFT)",
+      "DEXA Scan",
+      "Hormone Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Vincent Graves",
+    "Date of Birth": "1912-11-26",
+    "Healthcare number": 547570,
+    "Phone Number": 936102027,
+    "Image": "random.png",
+    "Identity number": 8787652244,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      },
+      {
+        "name": "Lisinopril",
+        "price": 8.99
+      },
+      {
+        "name": "Fluticasone",
+        "price": 12.99
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "price": 9.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Micheal Garrison",
+    "Date of Birth": "1922-11-01",
+    "Healthcare number": 995110,
+    "Phone Number": 935396408,
+    "Image": "random.png",
+    "Identity number": 2417193467,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      },
+      {
+        "name": "Trazodone",
+        "price": 10.99
+      },
+      {
+        "name": "Ciprofloxacin",
+        "price": 12.99
+      },
+      {
+        "name": "Aspirin",
+        "price": 5.99
+      },
+      {
+        "name": "Paracetamol",
+        "price": 4.99
+      }
+    ],
+    "Exams": [
+      "Ultrasound",
+      "X-ray",
+      "Genetic Testing"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Ralph Jimenez",
+    "Date of Birth": "2004-05-29",
+    "Healthcare number": 275726,
+    "Phone Number": 962306676,
+    "Image": "random.png",
+    "Identity number": 5420049982,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Donepezil",
+        "price": 12.99
+      },
+      {
+        "name": "Atomoxetine",
+        "price": 14.99
+      },
+      {
+        "name": "Clonazepam",
+        "price": 11.49
+      }
+    ],
+    "Exams": [
+      "Electromyography (EMG)",
+      "Endoscopy",
+      "Pulmonary Function Tests (PFT)",
+      "Hormone Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Lauren Blackburn",
+    "Date of Birth": "1999-03-31",
+    "Healthcare number": 942188,
+    "Phone Number": 962802428,
+    "Image": "random.png",
+    "Identity number": 9472603880,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Furosemide",
+        "price": 8.49
+      },
+      {
+        "name": "Pantoprazole",
+        "price": 10.99
+      },
+      {
+        "name": "Atomoxetine",
+        "price": 14.99
+      },
+      {
+        "name": "Olanzapine",
+        "price": 15.99
+      },
+      {
+        "name": "Levothyroxine",
+        "price": 8.49
+      }
+    ],
+    "Exams": [
+      "Prostate-specific Antigen (PSA) Test",
+      "Ultrasound",
+      "DEXA Scan",
+      "ECG",
+      "Glucose Tolerance Test",
+      "Thyroid Function Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Carolyn Wiggins",
+    "Date of Birth": "2012-10-13",
+    "Healthcare number": 680942,
+    "Phone Number": 914750158,
+    "Image": "random.png",
+    "Identity number": 2021615756,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "X-ray",
+      "Spirometry",
+      "Hormone Tests",
+      "Electroencephalogram (EEG)",
+      "Blood Work"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Cody Wilson",
+    "Date of Birth": "1988-08-30",
+    "Healthcare number": 522720,
+    "Phone Number": 965734220,
+    "Image": "random.png",
+    "Identity number": 1144497449,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Cyclobenzaprine",
+        "price": 11.99
+      },
+      {
+        "name": "Losartan",
+        "price": 11.49
+      }
+    ],
+    "Exams": [
+      "Genetic Testing",
+      "ECG",
+      "Endoscopy",
+      "Blood Work",
+      "Stress Test",
+      "Skin Biopsy",
+      "Lumbar Puncture",
+      "Allergy Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Michael Hoffman",
+    "Date of Birth": "2010-04-20",
+    "Healthcare number": 578557,
+    "Phone Number": 969215504,
+    "Image": "random.png",
+    "Identity number": 3191872530,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Duloxetine",
+        "price": 12.49
+      }
+    ],
+    "Exams": [
+      "Echocardiogram",
+      "Spirometry",
+      "MRI",
+      "Stress Test",
+      "Ultrasound",
+      "Holter Monitor",
+      "Glucose Tolerance Test",
+      "Liver Function TestsComplete Blood Count (CBC)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Autumn Baker",
+    "Date of Birth": "1911-07-15",
+    "Healthcare number": 691344,
+    "Phone Number": 92793736,
+    "Image": "random.png",
+    "Identity number": 3197001312,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Citalopram",
+        "price": 14.99
+      },
+      {
+        "name": "Metoprolol",
+        "price": 12.49
+      },
+      {
+        "name": "Donepezil",
+        "price": 12.99
+      }
+    ],
+    "Exams": [
+      "X-ray",
+      "Electroencephalogram (EEG)",
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Courtney Chung",
+    "Date of Birth": "1925-12-05",
+    "Healthcare number": 372505,
+    "Phone Number": 915610548,
+    "Image": "random.png",
+    "Identity number": 3738754858,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Olanzapine",
+        "price": 15.99
+      },
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Patch Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Kimberly Smith",
+    "Date of Birth": "1942-09-30",
+    "Healthcare number": 846599,
+    "Phone Number": 937484436,
+    "Image": "random.png",
+    "Identity number": 1414861458,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Quetiapine",
+        "price": 13.49
+      },
+      {
+        "name": "Clopidogrel",
+        "price": 13.49
+      }
+    ],
+    "Exams": [
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Felicia Fisher",
+    "Date of Birth": "1981-01-14",
+    "Healthcare number": 882342,
+    "Phone Number": 933847246,
+    "Image": "random.png",
+    "Identity number": 9623000270,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Gabapentin",
+        "price": 16.49
+      }
+    ],
+    "Exams": [
+      "Endoscopy",
+      "X-ray",
+      "Spirometry"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Tony Santiago",
+    "Date of Birth": "1961-03-09",
+    "Healthcare number": 463468,
+    "Phone Number": 92102055,
+    "Image": "random.png",
+    "Identity number": 5753834717,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Naproxen",
+        "price": 9.99
+      },
+      {
+        "name": "Atomoxetine",
+        "price": 14.99
+      }
+    ],
+    "Exams": [
+      "Mammogram",
+      "Pulmonary Function Tests (PFT)",
+      "X-ray",
+      "MRI",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Thyroid Function Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Anthony Patterson",
+    "Date of Birth": "1948-09-30",
+    "Healthcare number": 876980,
+    "Phone Number": 935671361,
+    "Image": "random.png",
+    "Identity number": 6442672302,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 6.99
+      }
+    ],
+    "Exams": [
+      "Spirometry",
+      "DEXA Scan",
+      "Colonoscopy",
+      "MRI",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "X-ray",
+      "Electromyography (EMG)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Heather Richards",
+    "Date of Birth": "1914-11-28",
+    "Healthcare number": 111436,
+    "Phone Number": 935420188,
+    "Image": "random.png",
+    "Identity number": 5493216292,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Tramadol",
+        "price": 15.99
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 6.99
+      },
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      },
+      {
+        "name": "Prednisone",
+        "price": 7.99
+      }
+    ],
+    "Exams": [
+      "Spirometry",
+      "Colonoscopy",
+      "X-ray",
+      "Electromyography (EMG)",
+      "MRI",
+      "Pulmonary Function Tests (PFT)",
+      "Thyroid Function Tests",
+      "Holter Monitor"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Joseph Garcia",
+    "Date of Birth": "1940-06-12",
+    "Healthcare number": 137192,
+    "Phone Number": 922024880,
+    "Image": "random.png",
+    "Identity number": 2808777357,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Omeprazole",
+        "price": 10.99
+      },
+      {
+        "name": "Loratadine",
+        "price": 7.49
+      },
+      {
+        "name": "Warfarin",
+        "price": 6.99
+      },
+      {
+        "name": "Mirtazapine",
+        "price": 12.99
+      }
+    ],
+    "Exams": [
+      "Allergy Tests",
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Bob Vargas",
+    "Date of Birth": "1917-01-29",
+    "Healthcare number": 337399,
+    "Phone Number": 912575899,
+    "Image": "random.png",
+    "Identity number": 9054532281,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Losartan",
+        "price": 11.49
+      },
+      {
+        "name": "Cephalexin",
+        "price": 14.99
+      },
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      },
+      {
+        "name": "Atomoxetine",
+        "price": 14.99
+      },
+      {
+        "name": "Bupropion",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Mammogram",
+      "MRI",
+      "Prostate-specific Antigen (PSA) Test",
+      "DEXA Scan",
+      "Endoscopy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Kyle Stevens",
+    "Date of Birth": "1923-07-22",
+    "Healthcare number": 222178,
+    "Phone Number": 967783379,
+    "Image": "random.png",
+    "Identity number": 9322022537,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "CT Scan"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Sheila Solomon",
+    "Date of Birth": "1942-09-02",
+    "Healthcare number": 848335,
+    "Phone Number": 926447430,
+    "Image": "random.png",
+    "Identity number": 8478117553,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Valacyclovir",
+        "price": 10.99
+      },
+      {
+        "name": "Venlafaxine",
+        "price": 12.99
+      }
+    ],
+    "Exams": [
+      "Ultrasound",
+      "Prostate-specific Antigen (PSA) Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Andre Jennings",
+    "Date of Birth": "1954-08-05",
+    "Healthcare number": 582972,
+    "Phone Number": 924195943,
+    "Image": "random.png",
+    "Identity number": 1561883527,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Citalopram",
+        "price": 14.99
+      },
+      {
+        "name": "Clonazepam",
+        "price": 11.49
+      },
+      {
+        "name": "Venlafaxine",
+        "price": 12.99
+      },
+      {
+        "name": "Cephalexin",
+        "price": 14.99
+      },
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Bone Density Test",
+      "Blood Work"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Monica Smith",
+    "Date of Birth": "1934-10-07",
+    "Healthcare number": 353568,
+    "Phone Number": 933392326,
+    "Image": "random.png",
+    "Identity number": 7049966024,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Cephalexin",
+        "price": 14.99
+      },
+      {
+        "name": "Fluticasone",
+        "price": 12.99
+      },
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Stress Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Gabriel Lyons",
+    "Date of Birth": "1989-11-28",
+    "Healthcare number": 589764,
+    "Phone Number": 964752934,
+    "Image": "random.png",
+    "Identity number": 1024274739,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Morphine",
+        "price": 18.99
+      },
+      {
+        "name": "Carbamazepine",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "DEXA Scan",
+      "Genetic Testing",
+      "Holter Monitor"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jennifer Thomas",
+    "Date of Birth": "1964-04-27",
+    "Healthcare number": 394370,
+    "Phone Number": 931457191,
+    "Image": "random.png",
+    "Identity number": 6182566314,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Morphine",
+        "price": 18.99
+      },
+      {
+        "name": "Warfarin",
+        "price": 6.99
+      },
+      {
+        "name": "Ibuprofen",
+        "price": 7.99
+      },
+      {
+        "name": "Dexamethasone",
+        "price": 9.49
+      },
+      {
+        "name": "Losartan",
+        "price": 11.49
+      }
+    ],
+    "Exams": [
+      "Bone Density Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Sharon Nguyen",
+    "Date of Birth": "1927-03-04",
+    "Healthcare number": 924566,
+    "Phone Number": 933765953,
+    "Image": "random.png",
+    "Identity number": 6961999264,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Atomoxetine",
+        "price": 14.99
+      },
+      {
+        "name": "Cephalexin",
+        "price": 14.99
+      },
+      {
+        "name": "Furosemide",
+        "price": 8.49
+      },
+      {
+        "name": "Metformin",
+        "price": 7.49
+      },
+      {
+        "name": "Levofloxacin",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Bone Density Test",
+      "Blood Work"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "David Jackson",
+    "Date of Birth": "1969-08-22",
+    "Healthcare number": 135685,
+    "Phone Number": 933982538,
+    "Image": "random.png",
+    "Identity number": 5580572423,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Clopidogrel",
+        "price": 13.49
+      },
+      {
+        "name": "Ciprofloxacin",
+        "price": 12.99
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Echocardiogram",
+      "Hormone Tests",
+      "Pulmonary Function Tests (PFT)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Michael Campos",
+    "Date of Birth": "2009-08-04",
+    "Healthcare number": 156277,
+    "Phone Number": 922895002,
+    "Image": "random.png",
+    "Identity number": 6143347563,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Skin Biopsy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Kelsey Duke",
+    "Date of Birth": "1966-02-21",
+    "Healthcare number": 210100,
+    "Phone Number": 918206549,
+    "Image": "random.png",
+    "Identity number": 2514371001,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Levofloxacin",
+        "price": 13.99
+      },
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      },
+      {
+        "name": "Omeprazole",
+        "price": 10.99
+      },
+      {
+        "name": "Topiramate",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Echocardiogram",
+      "Electromyography (EMG)",
+      "Holter Monitor",
+      "ECG",
+      "Endoscopy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Keith Jones",
+    "Date of Birth": "1961-11-25",
+    "Healthcare number": 730413,
+    "Phone Number": 92661348,
+    "Image": "random.png",
+    "Identity number": 5076950212,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      },
+      {
+        "name": "Rivastigmine",
+        "price": 14.99
+      },
+      {
+        "name": "Bupropion",
+        "price": 11.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Thomas Davis",
+    "Date of Birth": "1985-10-04",
+    "Healthcare number": 473153,
+    "Phone Number": 919482201,
+    "Image": "random.png",
+    "Identity number": 8704418998,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Dexamethasone",
+        "price": 9.49
+      }
+    ],
+    "Exams": [
+      "Echocardiogram",
+      "Mammogram",
+      "Electromyography (EMG)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Alex Vargas",
+    "Date of Birth": "1973-10-11",
+    "Healthcare number": 951617,
+    "Phone Number": 962429239,
+    "Image": "random.png",
+    "Identity number": 2901260986,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Paracetamol",
+        "price": 4.99
+      },
+      {
+        "name": "Dexamethasone",
+        "price": 9.49
+      },
+      {
+        "name": "Metformin",
+        "price": 7.49
+      },
+      {
+        "name": "Atorvastatin",
+        "price": 15.99
+      }
+    ],
+    "Exams": [
+      "Holter Monitor",
+      "Pap Smear",
+      "Mammogram",
+      "Stress Test",
+      "Electroencephalogram (EEG)",
+      "Lumbar Puncture",
+      "Electromyography (EMG)",
+      "CT Scan"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jeremy Johnson",
+    "Date of Birth": "1926-03-18",
+    "Healthcare number": 535099,
+    "Phone Number": 916051465,
+    "Image": "random.png",
+    "Identity number": 6574929141,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Meloxicam",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Glucose Tolerance Test",
+      "Mammogram",
+      "Ultrasound",
+      "Spirometry",
+      "Endoscopy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Gregory Hendrix",
+    "Date of Birth": "1918-05-04",
+    "Healthcare number": 133006,
+    "Phone Number": 912373582,
+    "Image": "random.png",
+    "Identity number": 9032983874,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Omeprazole",
+        "price": 10.99
+      },
+      {
+        "name": "Doxycycline",
+        "price": 7.99
+      },
+      {
+        "name": "Gabapentin",
+        "price": 16.49
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "price": 9.99
+      },
+      {
+        "name": "Azithromycin",
+        "price": 14.99
+      }
+    ],
+    "Exams": [
+      "Spirometry",
+      "Bone Density Test",
+      "Ultrasound"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Priscilla Pena",
+    "Date of Birth": "1958-12-14",
+    "Healthcare number": 893862,
+    "Phone Number": 968396947,
+    "Image": "random.png",
+    "Identity number": 1581252041,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Metformin",
+        "price": 7.49
+      }
+    ],
+    "Exams": [
+      "Genetic Testing",
+      "Skin Biopsy",
+      "X-ray",
+      "Mammogram"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Steven Bauer",
+    "Date of Birth": "1912-09-01",
+    "Healthcare number": 194183,
+    "Phone Number": 92519653,
+    "Image": "random.png",
+    "Identity number": 1553548727,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Trazodone",
+        "price": 10.99
+      },
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      },
+      {
+        "name": "Olanzapine",
+        "price": 15.99
+      }
+    ],
+    "Exams": [
+      "Hormone Tests",
+      "ECG",
+      "Thyroid Function Tests",
+      "MRI",
+      "Genetic Testing"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Chloe Morris",
+    "Date of Birth": "1942-09-25",
+    "Healthcare number": 894231,
+    "Phone Number": 963067337,
+    "Image": "random.png",
+    "Identity number": 2402320383,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Aspirin",
+        "price": 5.99
+      },
+      {
+        "name": "Citalopram",
+        "price": 14.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Andrew Garcia",
+    "Date of Birth": "1911-01-20",
+    "Healthcare number": 247126,
+    "Phone Number": 937210969,
+    "Image": "random.png",
+    "Identity number": 4186516452,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Dexamethasone",
+        "price": 9.49
+      },
+      {
+        "name": "Paracetamol",
+        "price": 4.99
+      },
+      {
+        "name": "Trazodone",
+        "price": 10.99
+      },
+      {
+        "name": "Furosemide",
+        "price": 8.49
+      }
+    ],
+    "Exams": [
+      "Allergy Tests",
+      "MRI"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Anthony Moses",
+    "Date of Birth": "1969-03-28",
+    "Healthcare number": 703691,
+    "Phone Number": 92871695,
+    "Image": "random.png",
+    "Identity number": 4366051155,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Fluoxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Metoprolol",
+        "price": 12.49
+      },
+      {
+        "name": "Morphine",
+        "price": 18.99
+      },
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      },
+      {
+        "name": "Lisinopril",
+        "price": 8.99
+      }
+    ],
+    "Exams": [
+      "Hormone Tests",
+      "Mammogram",
+      "Prostate-specific Antigen (PSA) Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Amber Contreras",
+    "Date of Birth": "1995-12-13",
+    "Healthcare number": 427026,
+    "Phone Number": 92564644,
+    "Image": "random.png",
+    "Identity number": 8678557206,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Stress Test",
+      "Pulmonary Function Tests (PFT)",
+      "Patch Test",
+      "Genetic Testing",
+      "Urinalysis",
+      "Thyroid Function Tests",
+      "CT Scan",
+      "MRI"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Christina Baker",
+    "Date of Birth": "1920-06-07",
+    "Healthcare number": 430239,
+    "Phone Number": 914316200,
+    "Image": "random.png",
+    "Identity number": 7972182173,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Hormone Tests",
+      "Stress Test",
+      "Skin Biopsy",
+      "Echocardiogram"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Nathan Jones",
+    "Date of Birth": "2023-08-28",
+    "Healthcare number": 514225,
+    "Phone Number": 91620020,
+    "Image": "random.png",
+    "Identity number": 4670650563,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Olanzapine",
+        "price": 15.99
+      },
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      },
+      {
+        "name": "Rivastigmine",
+        "price": 14.99
+      },
+      {
+        "name": "Clonazepam",
+        "price": 11.49
+      },
+      {
+        "name": "Mirtazapine",
+        "price": 12.99
+      }
+    ],
+    "Exams": [
+      "Genetic Testing",
+      "Ultrasound",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Biopsy",
+      "Electroencephalogram (EEG)",
+      "Hormone Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Joel White",
+    "Date of Birth": "1995-07-02",
+    "Healthcare number": 381668,
+    "Phone Number": 966783069,
+    "Image": "random.png",
+    "Identity number": 9818093423,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Lisinopril",
+        "price": 8.99
+      },
+      {
+        "name": "Prednisone",
+        "price": 7.99
+      }
+    ],
+    "Exams": [
+      "Thyroid Function Tests",
+      "Stress Test",
+      "Patch Test",
+      "Genetic Testing",
+      "Pulmonary Function Tests (PFT)",
+      "Pap Smear",
+      "Blood Work",
+      "Allergy Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jesse Turner",
+    "Date of Birth": "1949-02-13",
+    "Healthcare number": 395905,
+    "Phone Number": 933529322,
+    "Image": "random.png",
+    "Identity number": 5402193682,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Losartan",
+        "price": 11.49
+      },
+      {
+        "name": "Rivastigmine",
+        "price": 14.99
+      },
+      {
+        "name": "Duloxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Diazepam",
+        "price": 9.49
+      }
+    ],
+    "Exams": [
+      "Bone Density Test",
+      "Pulmonary Function Tests (PFT)",
+      "Endoscopy",
+      "Stress Test",
+      "Lumbar Puncture"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Amanda Newton",
+    "Date of Birth": "1993-07-25",
+    "Healthcare number": 184071,
+    "Phone Number": 961851548,
+    "Image": "random.png",
+    "Identity number": 4430258944,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      },
+      {
+        "name": "Omeprazole",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Bone Density Test",
+      "Colonoscopy",
+      "Prostate-specific Antigen (PSA) Test",
+      "Glucose Tolerance Test",
+      "Biopsy",
+      "Spirometry",
+      "Holter Monitor",
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Robert Villanueva",
+    "Date of Birth": "1985-08-05",
+    "Healthcare number": 143507,
+    "Phone Number": 968865387,
+    "Image": "random.png",
+    "Identity number": 3669201364,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Gabapentin",
+        "price": 16.49
+      },
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      },
+      {
+        "name": "Warfarin",
+        "price": 6.99
+      },
+      {
+        "name": "Carbamazepine",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "Endoscopy",
+      "X-ray",
+      "Stress Test",
+      "Mammogram",
+      "Electroencephalogram (EEG)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Corey Davis",
+    "Date of Birth": "2022-09-04",
+    "Healthcare number": 582581,
+    "Phone Number": 913736368,
+    "Image": "random.png",
+    "Identity number": 1771670508,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Warfarin",
+        "price": 6.99
+      },
+      {
+        "name": "Candesartan",
+        "price": 11.49
+      },
+      {
+        "name": "Quetiapine",
+        "price": 13.49
+      }
+    ],
+    "Exams": [
+      "Patch Test",
+      "Blood Work"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Donald Johnson",
+    "Date of Birth": "1977-08-10",
+    "Healthcare number": 149174,
+    "Phone Number": 928594697,
+    "Image": "random.png",
+    "Identity number": 8985766100,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Olanzapine",
+        "price": 15.99
+      },
+      {
+        "name": "Meloxicam",
+        "price": 9.99
+      },
+      {
+        "name": "Amlodipine",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Pulmonary Function Tests (PFT)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "James Buck",
+    "Date of Birth": "1993-02-22",
+    "Healthcare number": 542083,
+    "Phone Number": 961239212,
+    "Image": "random.png",
+    "Identity number": 9467774962,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      },
+      {
+        "name": "Mirtazapine",
+        "price": 12.99
+      },
+      {
+        "name": "Cyclobenzaprine",
+        "price": 11.99
+      },
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      }
+    ],
+    "Exams": [
+      "Holter Monitor",
+      "Hormone Tests",
+      "Stress Test",
+      "Spirometry"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Joel Powell",
+    "Date of Birth": "1997-10-10",
+    "Healthcare number": 573945,
+    "Phone Number": 922465903,
+    "Image": "random.png",
+    "Identity number": 9543893749,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Paracetamol",
+        "price": 4.99
+      },
+      {
+        "name": "Atomoxetine",
+        "price": 14.99
+      },
+      {
+        "name": "Aspirin",
+        "price": 5.99
+      },
+      {
+        "name": "Memantine",
+        "price": 11.49
+      },
+      {
+        "name": "Venlafaxine",
+        "price": 12.99
+      }
+    ],
+    "Exams": [
+      "Pap Smear",
+      "Prostate-specific Antigen (PSA) Test",
+      "Electroencephalogram (EEG)",
+      "Glucose Tolerance Test",
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Holly Stone",
+    "Date of Birth": "1927-08-04",
+    "Healthcare number": 716697,
+    "Phone Number": 965471337,
+    "Image": "random.png",
+    "Identity number": 2233527120,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      },
+      {
+        "name": "Cetirizine",
+        "price": 8.49
+      },
+      {
+        "name": "Bupropion",
+        "price": 11.99
+      },
+      {
+        "name": "Trazodone",
+        "price": 10.99
+      },
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Biopsy",
+      "Electroencephalogram (EEG)",
+      "Thyroid Function Tests",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Bone Density Test",
+      "Patch Test",
+      "Mammogram",
+      "Blood Work"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Heather Bryant",
+    "Date of Birth": "1929-05-06",
+    "Healthcare number": 100229,
+    "Phone Number": 921419343,
+    "Image": "random.png",
+    "Identity number": 1372325403,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Pantoprazole",
+        "price": 10.99
+      },
+      {
+        "name": "Doxycycline",
+        "price": 7.99
+      }
+    ],
+    "Exams": [
+      "Spirometry"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Aaron Tyler",
+    "Date of Birth": "1909-09-07",
+    "Healthcare number": 259864,
+    "Phone Number": 916486382,
+    "Image": "random.png",
+    "Identity number": 9678641987,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Hormone Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Christopher Rojas",
+    "Date of Birth": "1982-10-16",
+    "Healthcare number": 530614,
+    "Phone Number": 935005740,
+    "Image": "random.png",
+    "Identity number": 3428322838,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Carbamazepine",
+        "price": 9.99
+      },
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      },
+      {
+        "name": "Albuterol",
+        "price": 11.99
+      },
+      {
+        "name": "Pantoprazole",
+        "price": 10.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jennifer Fuentes",
+    "Date of Birth": "2010-04-18",
+    "Healthcare number": 710027,
+    "Phone Number": 916630404,
+    "Image": "random.png",
+    "Identity number": 7669054320,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Duloxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Metformin",
+        "price": 7.49
+      },
+      {
+        "name": "Rivastigmine",
+        "price": 14.99
+      },
+      {
+        "name": "Olanzapine",
+        "price": 15.99
+      }
+    ],
+    "Exams": [
+      "Spirometry",
+      "Blood Work"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Linda Wilkerson",
+    "Date of Birth": "1991-03-13",
+    "Healthcare number": 137338,
+    "Phone Number": 939226922,
+    "Image": "random.png",
+    "Identity number": 2279941076,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amlodipine",
+        "price": 10.99
+      },
+      {
+        "name": "Lisinopril",
+        "price": 8.99
+      }
+    ],
+    "Exams": [
+      "Lumbar Puncture",
+      "DEXA Scan",
+      "Patch Test",
+      "Hormone Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Steven Lowe",
+    "Date of Birth": "1914-08-18",
+    "Healthcare number": 440294,
+    "Phone Number": 961959985,
+    "Image": "random.png",
+    "Identity number": 8848318211,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Acyclovir",
+        "price": 8.49
+      },
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      },
+      {
+        "name": "Loratadine",
+        "price": 7.49
+      },
+      {
+        "name": "Montelukast",
+        "price": 9.99
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 6.99
+      }
+    ],
+    "Exams": [
+      "Lumbar Puncture",
+      "CT Scan",
+      "Colonoscopy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Kimberly Jones",
+    "Date of Birth": "1915-09-14",
+    "Healthcare number": 198487,
+    "Phone Number": 935022856,
+    "Image": "random.png",
+    "Identity number": 7745903820,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Pantoprazole",
+        "price": 10.99
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "price": 9.99
+      },
+      {
+        "name": "Duloxetine",
+        "price": 12.49
+      }
+    ],
+    "Exams": [
+      "Allergy Tests",
+      "Blood Work",
+      "Electroencephalogram (EEG)",
+      "Spirometry",
+      "Hormone Tests",
+      "Colonoscopy",
+      "Glucose Tolerance Test",
+      "Skin Biopsy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Evelyn Adams",
+    "Date of Birth": "1992-06-22",
+    "Healthcare number": 755551,
+    "Phone Number": 93727397,
+    "Image": "random.png",
+    "Identity number": 1328678466,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Duloxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Cyclobenzaprine",
+        "price": 11.99
+      },
+      {
+        "name": "Furosemide",
+        "price": 8.49
+      }
+    ],
+    "Exams": [
+      "Urinalysis",
+      "Bone Density Test",
+      "Allergy Tests",
+      "CT Scan"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Caitlin Greer",
+    "Date of Birth": "2019-07-28",
+    "Healthcare number": 673572,
+    "Phone Number": 926391454,
+    "Image": "random.png",
+    "Identity number": 4272321065,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      },
+      {
+        "name": "Ciprofloxacin",
+        "price": 12.99
+      },
+      {
+        "name": "Citalopram",
+        "price": 14.99
+      },
+      {
+        "name": "Simvastatin",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Pap Smear",
+      "Glucose Tolerance Test",
+      "Genetic Testing",
+      "Allergy Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Anita Miller",
+    "Date of Birth": "2012-11-20",
+    "Healthcare number": 211050,
+    "Phone Number": 911948517,
+    "Image": "random.png",
+    "Identity number": 2066534859,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amlodipine",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Endoscopy",
+      "Glucose Tolerance Test",
+      "DEXA Scan"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jenna Webster",
+    "Date of Birth": "1949-03-01",
+    "Healthcare number": 281626,
+    "Phone Number": 939338921,
+    "Image": "random.png",
+    "Identity number": 9451968459,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amlodipine",
+        "price": 10.99
+      },
+      {
+        "name": "Esomeprazole",
+        "price": 9.99
+      },
+      {
+        "name": "Trazodone",
+        "price": 10.99
+      },
+      {
+        "name": "Mirtazapine",
+        "price": 12.99
+      }
+    ],
+    "Exams": [
+      "MRI",
+      "CT Scan",
+      "Colonoscopy",
+      "Pulmonary Function Tests (PFT)",
+      "Blood Work",
+      "Hormone Tests",
+      "Endoscopy",
+      "Lumbar Puncture"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Julia Hernandez",
+    "Date of Birth": "1915-03-06",
+    "Healthcare number": 360120,
+    "Phone Number": 9667452,
+    "Image": "random.png",
+    "Identity number": 2253851755,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Duloxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 6.99
+      },
+      {
+        "name": "Amlodipine",
+        "price": 10.99
+      },
+      {
+        "name": "Paracetamol",
+        "price": 4.99
+      }
+    ],
+    "Exams": [
+      "Endoscopy",
+      "Hormone Tests",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Ultrasound"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Mark Lambert",
+    "Date of Birth": "2006-02-24",
+    "Healthcare number": 959262,
+    "Phone Number": 923417264,
+    "Image": "random.png",
+    "Identity number": 6366547386,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Morphine",
+        "price": 18.99
+      },
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      },
+      {
+        "name": "Meloxicam",
+        "price": 9.99
+      },
+      {
+        "name": "Fluticasone",
+        "price": 12.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Nancy Nguyen",
+    "Date of Birth": "1995-08-28",
+    "Healthcare number": 130089,
+    "Phone Number": 925086096,
+    "Image": "random.png",
+    "Identity number": 3436463948,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Esomeprazole",
+        "price": 9.99
+      },
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      },
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Thyroid Function Tests",
+      "Biopsy",
+      "Ultrasound",
+      "Patch Test",
+      "Genetic Testing"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Natalie Henderson",
+    "Date of Birth": "1967-12-09",
+    "Healthcare number": 115755,
+    "Phone Number": 92622497,
+    "Image": "random.png",
+    "Identity number": 1446324318,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Mary Harmon",
+    "Date of Birth": "1933-06-12",
+    "Healthcare number": 307262,
+    "Phone Number": 967916630,
+    "Image": "random.png",
+    "Identity number": 2250109168,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Furosemide",
+        "price": 8.49
+      },
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      },
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      },
+      {
+        "name": "Fluoxetine",
+        "price": 12.49
+      }
+    ],
+    "Exams": [
+      "Lumbar Puncture",
+      "MRI",
+      "Stress Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Raymond Smith",
+    "Date of Birth": "1922-06-09",
+    "Healthcare number": 894019,
+    "Phone Number": 931826756,
+    "Image": "random.png",
+    "Identity number": 1823795555,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Dexamethasone",
+        "price": 9.49
+      }
+    ],
+    "Exams": [
+      "MRI",
+      "Bone Density Test",
+      "Echocardiogram",
+      "Patch Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jennifer Rodriguez",
+    "Date of Birth": "1970-05-23",
+    "Healthcare number": 328380,
+    "Phone Number": 914550156,
+    "Image": "random.png",
+    "Identity number": 5810232462,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Metronidazole",
+        "price": 10.49
+      },
+      {
+        "name": "Paracetamol",
+        "price": 4.99
+      },
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      },
+      {
+        "name": "Mirtazapine",
+        "price": 12.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Kelly Davis",
+    "Date of Birth": "1914-11-30",
+    "Healthcare number": 733459,
+    "Phone Number": 962618595,
+    "Image": "random.png",
+    "Identity number": 6077930998,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Colonoscopy",
+      "Bone Density Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Samuel Washington",
+    "Date of Birth": "2012-05-09",
+    "Healthcare number": 977687,
+    "Phone Number": 914163816,
+    "Image": "random.png",
+    "Identity number": 5246475473,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Endoscopy",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "Pulmonary Function Tests (PFT)",
+      "Prostate-specific Antigen (PSA) Test",
+      "Lumbar Puncture",
+      "Spirometry"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jonathan Frazier",
+    "Date of Birth": "1928-08-28",
+    "Healthcare number": 665039,
+    "Phone Number": 934931195,
+    "Image": "random.png",
+    "Identity number": 6288485870,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Pap Smear",
+      "Electromyography (EMG)",
+      "Endoscopy",
+      "Skin Biopsy",
+      "Patch Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "George Scott",
+    "Date of Birth": "2018-10-08",
+    "Healthcare number": 233791,
+    "Phone Number": 964025314,
+    "Image": "random.png",
+    "Identity number": 3732615769,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Atomoxetine",
+        "price": 14.99
+      }
+    ],
+    "Exams": [
+      "X-ray",
+      "Spirometry",
+      "Urinalysis"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Juan Reese",
+    "Date of Birth": "1976-07-19",
+    "Healthcare number": 265048,
+    "Phone Number": 925953004,
+    "Image": "random.png",
+    "Identity number": 4325220106,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Metoprolol",
+        "price": 12.49
+      },
+      {
+        "name": "Pantoprazole",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Thyroid Function Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Linda Hoffman",
+    "Date of Birth": "2014-06-15",
+    "Healthcare number": 469173,
+    "Phone Number": 969292179,
+    "Image": "random.png",
+    "Identity number": 2392648489,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      }
+    ],
+    "Exams": [
+      "Stress Test",
+      "Skin Biopsy",
+      "ECG",
+      "X-ray",
+      "Lumbar Puncture",
+      "Urinalysis"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Vincent Hoover",
+    "Date of Birth": "1984-09-22",
+    "Healthcare number": 137875,
+    "Phone Number": 935167691,
+    "Image": "random.png",
+    "Identity number": 7702705533,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Amlodipine",
+        "price": 10.99
+      },
+      {
+        "name": "Methotrexate",
+        "price": 13.99
+      },
+      {
+        "name": "Loratadine",
+        "price": 7.49
+      },
+      {
+        "name": "Metformin",
+        "price": 7.49
+      }
+    ],
+    "Exams": [
+      "Blood Work",
+      "Colonoscopy",
+      "Lumbar Puncture",
+      "Skin Biopsy",
+      "MRI",
+      "Echocardiogram",
+      "Urinalysis",
+      "ECG"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Martin Blackwell",
+    "Date of Birth": "1948-10-21",
+    "Healthcare number": 260411,
+    "Phone Number": 917419937,
+    "Image": "random.png",
+    "Identity number": 7980923327,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Pulmonary Function Tests (PFT)",
+      "Mammogram",
+      "DEXA Scan"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "James Hernandez",
+    "Date of Birth": "1925-12-02",
+    "Healthcare number": 558082,
+    "Phone Number": 969341741,
+    "Image": "random.png",
+    "Identity number": 1615738428,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Ultrasound",
+      "Spirometry",
+      "Allergy Tests",
+      "Biopsy",
+      "Electroencephalogram (EEG)",
+      "Liver Function TestsComplete Blood Count (CBC)",
+      "X-ray"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Scott Mcintyre",
+    "Date of Birth": "2005-10-08",
+    "Healthcare number": 820463,
+    "Phone Number": 966999059,
+    "Image": "random.png",
+    "Identity number": 6118418263,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Meloxicam",
+        "price": 9.99
+      },
+      {
+        "name": "Cephalexin",
+        "price": 14.99
+      },
+      {
+        "name": "Ciprofloxacin",
+        "price": 12.99
+      },
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      },
+      {
+        "name": "Levofloxacin",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Stress Test",
+      "DEXA Scan",
+      "Pap Smear"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jessica Thompson",
+    "Date of Birth": "1977-07-14",
+    "Healthcare number": 520275,
+    "Phone Number": 931637322,
+    "Image": "random.png",
+    "Identity number": 8566723020,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Ranitidine",
+        "price": 7.99
+      },
+      {
+        "name": "Amoxicillin",
+        "price": 9.99
+      },
+      {
+        "name": "Cephalexin",
+        "price": 14.99
+      },
+      {
+        "name": "Clopidogrel",
+        "price": 13.49
+      }
+    ],
+    "Exams": [
+      "Ultrasound",
+      "Thyroid Function Tests",
+      "Colonoscopy",
+      "CT Scan",
+      "Endoscopy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Antonio Hunter",
+    "Date of Birth": "2004-04-17",
+    "Healthcare number": 914192,
+    "Phone Number": 927150301,
+    "Image": "random.png",
+    "Identity number": 2821255900,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Tamsulosin",
+        "price": 8.99
+      },
+      {
+        "name": "Gabapentin",
+        "price": 16.49
+      },
+      {
+        "name": "Furosemide",
+        "price": 8.49
+      },
+      {
+        "name": "Amoxicillin",
+        "price": 9.99
+      }
+    ],
+    "Exams": [
+      "MRI",
+      "Allergy Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Sean Hall",
+    "Date of Birth": "1974-12-12",
+    "Healthcare number": 298015,
+    "Phone Number": 916794114,
+    "Image": "random.png",
+    "Identity number": 8955325447,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Hydrochlorothiazide",
+        "price": 9.99
+      },
+      {
+        "name": "Aripiprazole",
+        "price": 14.99
+      },
+      {
+        "name": "Valacyclovir",
+        "price": 10.99
+      },
+      {
+        "name": "Azithromycin",
+        "price": 14.99
+      }
+    ],
+    "Exams": [
+      "Electroencephalogram (EEG)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Justin Soto",
+    "Date of Birth": "1953-03-07",
+    "Healthcare number": 553214,
+    "Phone Number": 919653016,
+    "Image": "random.png",
+    "Identity number": 8086295985,
+    "Blood Type": "AB+",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "X-ray"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Margaret Thompson",
+    "Date of Birth": "1945-10-13",
+    "Healthcare number": 381084,
+    "Phone Number": 93722603,
+    "Image": "random.png",
+    "Identity number": 3017446046,
+    "Blood Type": "O+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Hydrocodone",
+        "price": 17.99
+      },
+      {
+        "name": "Amitriptyline",
+        "price": 11.99
+      },
+      {
+        "name": "Candesartan",
+        "price": 11.49
+      }
+    ],
+    "Exams": [
+      "Electromyography (EMG)",
+      "Genetic Testing"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Holly Ramos",
+    "Date of Birth": "1969-06-14",
+    "Healthcare number": 872189,
+    "Phone Number": 938110916,
+    "Image": "random.png",
+    "Identity number": 5068960371,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Patch Test",
+      "Genetic Testing"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Brandon Smith",
+    "Date of Birth": "1967-11-10",
+    "Healthcare number": 350807,
+    "Phone Number": 934430598,
+    "Image": "random.png",
+    "Identity number": 2004523839,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Patricia Chambers",
+    "Date of Birth": "1913-09-12",
+    "Healthcare number": 752917,
+    "Phone Number": 962535477,
+    "Image": "random.png",
+    "Identity number": 1752502047,
+    "Blood Type": "O-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Trazodone",
+        "price": 10.99
+      }
+    ],
+    "Exams": [
+      "Allergy Tests",
+      "Pulmonary Function Tests (PFT)"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Melissa Brown",
+    "Date of Birth": "1941-03-10",
+    "Healthcare number": 228804,
+    "Phone Number": 939104176,
+    "Image": "random.png",
+    "Identity number": 6688658705,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      },
+      {
+        "name": "Warfarin",
+        "price": 6.99
+      },
+      {
+        "name": "Escitalopram",
+        "price": 13.99
+      }
+    ],
+    "Exams": [
+      "Glucose Tolerance Test",
+      "CT Scan",
+      "Mammogram",
+      "Ultrasound",
+      "Patch Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Anthony Stanley",
+    "Date of Birth": "1913-07-08",
+    "Healthcare number": 642033,
+    "Phone Number": 961390297,
+    "Image": "random.png",
+    "Identity number": 8711742830,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Fluoxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Sildenafil",
+        "price": 15.99
+      },
+      {
+        "name": "Ciprofloxacin",
+        "price": 12.99
+      },
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Bone Density Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Ronald Mcbride",
+    "Date of Birth": "1990-04-14",
+    "Healthcare number": 766258,
+    "Phone Number": 921105191,
+    "Image": "random.png",
+    "Identity number": 8612214089,
+    "Blood Type": "B-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Acyclovir",
+        "price": 8.49
+      },
+      {
+        "name": "Diazepam",
+        "price": 9.49
+      },
+      {
+        "name": "Metronidazole",
+        "price": 10.49
+      }
+    ],
+    "Exams": [
+      "Skin Biopsy",
+      "Electroencephalogram (EEG)",
+      "Genetic Testing",
+      "Lumbar Puncture",
+      "MRI",
+      "Biopsy",
+      "Ultrasound",
+      "Thyroid Function Tests"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Dennis Diaz",
+    "Date of Birth": "1934-12-30",
+    "Healthcare number": 581530,
+    "Phone Number": 921915141,
+    "Image": "random.png",
+    "Identity number": 1015282440,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Urinalysis",
+      "MRI",
+      "Patch Test",
+      "Stress Test",
+      "Biopsy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Justin Thompson",
+    "Date of Birth": "2019-07-10",
+    "Healthcare number": 916510,
+    "Phone Number": 921942558,
+    "Image": "random.png",
+    "Identity number": 9316865796,
+    "Blood Type": "A+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      }
+    ],
+    "Exams": [
+      "Skin Biopsy"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Courtney Collins",
+    "Date of Birth": "1958-08-04",
+    "Healthcare number": 891109,
+    "Phone Number": 967987441,
+    "Image": "random.png",
+    "Identity number": 7165893224,
+    "Blood Type": "B+",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Naproxen",
+        "price": 9.99
+      },
+      {
+        "name": "Fluoxetine",
+        "price": 12.49
+      },
+      {
+        "name": "Budesonide",
+        "price": 11.99
+      },
+      {
+        "name": "Pantoprazole",
+        "price": 10.99
+      }
+    ],
+    "Exams": [],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Brian Ramirez",
+    "Date of Birth": "1968-07-01",
+    "Healthcare number": 175092,
+    "Phone Number": 962444537,
+    "Image": "random.png",
+    "Identity number": 7707106233,
+    "Blood Type": "AB-",
+    "Medicine assigned to this patient": [],
+    "Exams": [
+      "Bone Density Test",
+      "Pap Smear",
+      "Urinalysis",
+      "Pulmonary Function Tests (PFT)",
+      "Thyroid Function Tests",
+      "Electromyography (EMG)",
+      "Stress Test"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  },
+  {
+    "Name": "Jesse Hansen",
+    "Date of Birth": "1942-12-12",
+    "Healthcare number": 939071,
+    "Phone Number": 963927338,
+    "Image": "random.png",
+    "Identity number": 6066175383,
+    "Blood Type": "A-",
+    "Medicine assigned to this patient": [
+      {
+        "name": "Loratadine",
+        "price": 7.49
+      },
+      {
+        "name": "Amlodipine",
+        "price": 10.99
+      },
+      {
+        "name": "Risperidone",
+        "price": 11.99
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 6.99
+      }
+    ],
+    "Exams": [
+      "Allergy Tests",
+      "Biopsy",
+      "Stress Test",
+      "Prostate-specific Antigen (PSA) Test",
+      "MRI"
+    ],
+    "Exams Scheduled": [],
+    "Appointments Scheduled": []
+  }
+]

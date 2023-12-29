@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hospitalSpace.MedicalHist"
+             Title="">
+
+    <Grid VerticalOptions="Center" HorizontalOptions="Center" ColumnSpacing="30" RowSpacing="5">
+
+        <Grid.RowDefinitions>
+        <RowDefinition Height="60" />
+        <RowDefinition Height="500" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="500" />
+        <ColumnDefinition Width="500" />
+        <ColumnDefinition Width="500" />
+        </Grid.ColumnDefinitions>
+
+        <Frame Grid.Row="0" Grid.Column="0" BackgroundColor="White" BorderColor="Transparent">
+            <Label x:Name="Ex" Text="Exams" CharacterSpacing="1" FontAttributes="Bold" FontSize="20" IsVisible="true" TextColor="Gray"/>
+        </Frame>
+
+        <Frame Grid.Row="0" Grid.Column="1" BackgroundColor="White" BorderColor="Transparent">
+            <Label x:Name="Meds" CharacterSpacing="1" Text="Medicine attributted" FontAttributes="Bold" FontSize="20" IsVisible="true" TextColor="Gray"/>
+        </Frame>
+            
+        <Frame Grid.Row="0" Grid.Column="2" BackgroundColor="White" BorderColor="Transparent">
+            <Label x:Name="Appoint" CharacterSpacing="1" Text="Appointments" FontAttributes="Bold" FontSize="20" IsVisible="true" TextColor="Gray"/>
+        </Frame>
+
+        <Frame Grid.Row="1" Grid.Column="0" BackgroundColor="#f2f2f2" BorderColor="Transparent">
+            <ScrollView HeightRequest="500" VerticalOptions="FillAndExpand" Padding="0,15">
+                <Label x:Name="ExamsLabel" FontSize="16"/>
+            </ScrollView>
+        </Frame>
+
+        <Frame Grid.Row="1" Grid.Column="1" BackgroundColor="#f2f2f2" BorderColor="Transparent">
+            <ScrollView HeightRequest="500" VerticalOptions="FillAndExpand" Padding="0,15">
+                <Label x:Name="MedicineLabel" FontSize="16"/>
+            </ScrollView>
+        </Frame>
+
+        <Frame Grid.Row="1" Grid.Column="2" BackgroundColor="#f2f2f2" BorderColor="Transparent">
+            <ScrollView HeightRequest="500" VerticalOptions="FillAndExpand" Padding="0,15">
+                <Label x:Name="AppointmentsLabel" FontSize="16"/>
+            </ScrollView>
+        </Frame>
+
+    </Grid>
+
+</ContentPage>

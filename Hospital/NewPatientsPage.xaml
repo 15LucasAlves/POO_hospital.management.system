@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hospitalSpace.NewPatientsPage"
+             Title="">
+    <VerticalStackLayout>
+        <Label
+            Margin="0,150,0,30"
+            Text="Register new patient"
+            TextColor="#919191"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Entry
+                x:Name="EntryName"
+                Placeholder="Name"
+                HorizontalOptions="CenterAndExpand"
+                WidthRequest="400"
+                BackgroundColor="White"
+           
+                Margin="0,0,0,15"/>
+
+        <DatePicker
+                x:Name="DatePickerDateOfBirth"
+                Format="yyyy-MM-dd"
+                HorizontalOptions="CenterAndExpand"
+                WidthRequest="400"
+                BackgroundColor="White"
+                Margin="0,0,0,1"/>
+        <Entry
+                x:Name="EntryIdentityNumber"
+                Placeholder="Identity Number"
+                HorizontalOptions="CenterAndExpand"
+                WidthRequest="400"
+                MaxLength="10"
+                BackgroundColor="White"
+                Margin="0,0,0,15"/>
+
+        <Entry
+                x:Name="EntryHealthcareNumber"
+                Placeholder="Healthcare Number"
+                HorizontalOptions="CenterAndExpand"
+                WidthRequest="400"
+                MaxLength="6"
+                BackgroundColor="White"
+                Margin="0,0,0,15"/>
+
+        <Entry
+                x:Name="EntryPhoneNumber"
+                Placeholder="Phone Number"
+                HorizontalOptions="CenterAndExpand"
+                WidthRequest="400"
+                MaxLength="9"
+                Margin="0,0,0,15"
+                BackgroundColor="White"/>
+
+        <!-- picker option won't work in macOS due to incompatibility with macOS sonoma according to github -->
+
+        <Entry
+                x:Name="EntryBloodType"
+                Placeholder="Blood Type"
+                HorizontalOptions="CenterAndExpand"
+                WidthRequest="400"
+                Margin="0,0,0,15"
+                BackgroundColor="White"/>
+
+        <Button
+            x:Name="RegisterButton"
+            Text="Register"
+            SemanticProperties.Hint="Register"
+            Clicked="RegisterButtonClicked"
+            HorizontalOptions="Center"
+            Margin="0,40,0,0"
+            />
+
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hospitalSpace.MainPage"
+             Title="">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Gray400">#919191</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <HorizontalStackLayout>
+        <Grid>
+            <BoxView Color="#f2f2f2" VerticalOptions="FillAndExpand" WidthRequest="300" HorizontalOptions="Start"/>
+
+            <Image
+                    Source="hospitallogo.png"
+                    SemanticProperties.Description="Logo"
+                    HorizontalOptions="Start"
+                    WidthRequest="200"
+                    Margin="50,0,0,550"/>
+
+            <StackLayout VerticalOptions="Center">
+                <Button
+                x:Name="Patients"
+                Text="Patients"
+                TextColor="#f2f2f2"
+                SemanticProperties.Hint="Patients_screen"
+                Clicked="OnPatientsButtonClicked"
+                HorizontalOptions="Start"
+                WidthRequest="200"
+                Padding="20"
+                Margin="50,10,0,60"
+                BackgroundColor="#33a1b1"
+                />
+
+                <BoxView Color="#f2f2f2" VerticalOptions="FillAndExpand" WidthRequest="300" HorizontalOptions="Start"/>
+
+                <Grid
+                    HorizontalOptions="Start"
+                    Margin="50,-60,0,20"
+                    >
+                    <Frame
+                        x:Name="searchFrame"
+                        IsVisible="False"
+                        CornerRadius="10"
+                        BackgroundColor="#f2f2f2"
+                        Padding="0"
+                        Margin="0,0,0,0"
+                        WidthRequest="200"
+                        HorizontalOptions="Start">
+                        <Grid>
+                            <!--#max length is set to 7 instead of 6 because .net maui does not trigger the button event with 6 (reason unknown)-->
+                            <SearchBar
+                                x:Name="searchBar"
+                                Placeholder="Healthcare Number"
+                                SearchButtonPressed="OnSearchButtonPressed"
+                                WidthRequest="200"
+                                Margin="0,0,0,0"
+                                MaxLength="7"
+                                BackgroundColor="#f2f2f2"
+                                />
+                        </Grid>
+                    </Frame>
+                </Grid>
+            </StackLayout>
+        </Grid>
+
+        <Grid VerticalOptions="Center" HorizontalOptions="Center" ColumnSpacing="10">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75" />
+                <RowDefinition Height="75" />
+                <RowDefinition Height="400" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="330" />
+                <ColumnDefinition Width="130" />
+                <ColumnDefinition Width="130" />
+                <ColumnDefinition Width="130" />
+                <ColumnDefinition Width="500" />
+            </Grid.ColumnDefinitions>
+
+            <Frame Grid.Row="0" Grid.Column="0" CornerRadius="5" Padding="10" Margin="50,5,0,5" BackgroundColor="#f2f2f2">
+                <SearchBar x:Name="searchStaffFromNum" Placeholder="Staff Number" BackgroundColor="#f2f2f2" SearchButtonPressed="OnSearchStaffButtonPressed" MaxLength="7"/>
+            </Frame>
+
+            <Frame Grid.Row="0" Grid.Column="1" CornerRadius="5" Padding="10" Margin="5,5" BackgroundColor="#f2f2f2">
+                <Button Clicked="RemoveFilter_Clicked" x:Name="RemoveFilter" HeightRequest="50" WidthRequest="120" Text="Remove Filter" TextColor="Black" BackgroundColor="#f2f2f2"/>
+            </Frame>
+
+            <Frame Grid.Row="0" Grid.Column="2" x:Name="DisplayNursesFrame" CornerRadius="5" Padding="10" Margin="5,5" BackgroundColor="#f2f2f2">
+                <Button Clicked="DisplayNurses_Clicked" x:Name="DisplayNurses" HeightRequest="50" WidthRequest="120" Text="Nurses" TextColor="Black" BackgroundColor="#f2f2f2"/>
+            </Frame>
+
+            <Frame Grid.Row="0" Grid.Column="3" CornerRadius="5" x:Name="DisplayDoctorsFrame" Padding="10" Margin="5,5" BackgroundColor="#f2f2f2">
+                <Button Clicked="DisplayDoctors_Clicked" x:Name="DisplayDoctors" HeightRequest="50" WidthRequest="120" Text="Doctors" TextColor="Black" BackgroundColor="#f2f2f2"/>
+            </Frame>
+
+            <Frame Grid.Row="0" Grid.Column="4" CornerRadius="5" Padding="10" Margin="5,5,0,5" BackgroundColor="#f2f2f2">
+                <ListView x:Name="AreaListView" HeightRequest="50" ItemSelected="TheList_ItemSelected" SelectionMode="Single" Background="#f2f2f2">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid Padding="10" Margin="10,0,0,0">
+                                    <Label Grid.Column="0" Text="{Binding}"/>
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Frame>
+             <Frame Grid.Row="1" Grid.ColumnSpan="5" CornerRadius="5" Padding="10" Margin="50,5,0,5" BackgroundColor="#f2f2f2">
+                  <Grid Padding="10" Margin="10,0,0,0">
+
+                      <Grid.RowDefinitions>
+                         <RowDefinition Height="Auto" />
+                      </Grid.RowDefinitions>
+
+                      <Grid.ColumnDefinitions>
+                         <ColumnDefinition Width="300" />
+                         <ColumnDefinition Width="200" />
+                         <ColumnDefinition Width="200" />
+                         <ColumnDefinition Width="300" />
+                      </Grid.ColumnDefinitions>
+
+                     <Label Grid.Column="0" Text="Name" TextColor="Black" FontAttributes="Bold" FontSize="Header"/>
+                     <Label Grid.Column="1" Text="Occupation" TextColor="Black" FontAttributes="Bold" FontSize="Header"/>
+                     <Label Grid.Column="3" Text="Specialty" TextColor="Black" FontAttributes="Bold" FontSize="Header"/>
+                     <Label Grid.Column="2" Text="Staff Number" TextColor="Black" FontAttributes="Bold" FontSize="Header"/>
+
+                 </Grid>
+             </Frame>
+
+            <Frame Grid.Row="2" Grid.ColumnSpan="5" CornerRadius="5" Padding="10" Margin="50,5,0,5" BackgroundColor="#f2f2f2">
+                <ListView x:Name="StaffInfoList" HeightRequest="380" WidthRequest="1150" SelectionMode="Single" Background="#f2f2f2">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid Padding="10" Margin="10,0,0,0">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="300" />
+                                        <ColumnDefinition Width="200" />
+                                        <ColumnDefinition Width="200" />
+                                        <ColumnDefinition Width="300" />
+                                    </Grid.ColumnDefinitions>
+                                    <Label Grid.Column="0" Text="{Binding Name}"/>
+                                    <Label Grid.Column="1" Text="{Binding Occupation}"/>
+                                    <Label Grid.Column="3" Text="{Binding Specialty}"/>
+                                    <Label Grid.Column="2" Text="{Binding StaffNumber}"/>
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Frame>
+        </Grid>
+    </HorizontalStackLayout>
+
+
+</ContentPage>

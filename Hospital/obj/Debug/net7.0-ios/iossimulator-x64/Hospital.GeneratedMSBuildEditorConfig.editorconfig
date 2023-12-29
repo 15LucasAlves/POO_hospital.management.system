@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = hospitalSpace
+build_property.ProjectDir = /Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/MedicalHist.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.MedicalHist.xaml
+build_metadata.AdditionalFiles.TargetPath = MedicalHist.xaml
+build_metadata.AdditionalFiles.RelativePath = MedicalHist.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/NewPatientsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.NewPatientsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = NewPatientsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = NewPatientsPage.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/PatientFound.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.PatientFound.xaml
+build_metadata.AdditionalFiles.TargetPath = PatientFound.xaml
+build_metadata.AdditionalFiles.RelativePath = PatientFound.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/ScheduleAppointments.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.ScheduleAppointments.xaml
+build_metadata.AdditionalFiles.TargetPath = ScheduleAppointments.xaml
+build_metadata.AdditionalFiles.RelativePath = ScheduleAppointments.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/ScheduleExams.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.ScheduleExams.xaml
+build_metadata.AdditionalFiles.TargetPath = ScheduleExams.xaml
+build_metadata.AdditionalFiles.RelativePath = ScheduleExams.xaml
+
+[/Users/dianasilva/Downloads/Projeto & APP/hospitalAPP/Hospital/StaffFound.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hospitalSpace.StaffFound.xaml
+build_metadata.AdditionalFiles.TargetPath = StaffFound.xaml
+build_metadata.AdditionalFiles.RelativePath = StaffFound.xaml

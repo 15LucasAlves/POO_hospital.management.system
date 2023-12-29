@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hospitalSpace.ScheduleExams"
+             Title="Schedule Exams">
+
+     <Grid RowSpacing="20" ColumnSpacing="20" VerticalOptions="Center" HorizontalOptions="Center">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="350"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400"/>
+            <ColumnDefinition Width="400"/>
+        </Grid.ColumnDefinitions>
+
+        <Frame Grid.Row="0" Grid.Column="0" CornerRadius="10" BackgroundColor="#f2f2f2">
+            <DatePicker x:Name="ExamsDatePicker" Format="yyyy-MM-dd" HorizontalOptions="Center"/>
+        </Frame>
+
+        <Frame Grid.Row="0" Grid.Column="1" CornerRadius="10" BackgroundColor="#f2f2f2">
+            <TimePicker x:Name="ExamsTimePicker"  Format="HH:mm" HorizontalOptions="Center"/>
+        </Frame>
+
+        <Label Grid.Row="1" Grid.Column="0" x:Name="SelectSpec" CharacterSpacing="1" FontAttributes="Bold" FontSize="20" Text="Select Specialty" TextColor="Black" IsVisible="true" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+        
+        <Label Grid.Row="1" Grid.Column="1" x:Name="PickDoc" CharacterSpacing="1" FontAttributes="Bold" FontSize="20" Text="Select Doctor" TextColor="Black" IsVisible="true" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+        <Frame Grid.Row="2" Grid.Column="0" CornerRadius="5" Padding="10" Margin="5,5,0,5" BackgroundColor="#f2f2f2">
+            <ListView x:Name="ListViewofAreas1"  SelectionMode="Single" Background="#f2f2f2">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="10" Margin="10,0,0,0">
+                                <Label Grid.Column="0" Text="{Binding}"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Frame>
+
+        <Frame Grid.Row="2" Grid.Column="1" CornerRadius="5" Padding="10" Margin="5,5,0,5" BackgroundColor="#f2f2f2">
+            <ListView x:Name="ListViewofDocs1"  SelectionMode="Single" Background="#f2f2f2">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="10" Margin="10,0,0,0">
+                                <Label Grid.Column="0" Text="{Binding}"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Frame>
+
+        <Frame Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" CornerRadius="10" BackgroundColor="#f2f2f2">
+            <Button x:Name="RegisterExam" Text="Schedule Exam" TextColor="Black" FontAttributes="Bold" FontSize="18" Clicked="RegisterExamClicked" HeightRequest="40" BackgroundColor="Transparent"/>
+        </Frame>
+
+    </Grid>
+</ContentPage>
